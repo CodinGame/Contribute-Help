@@ -1,4 +1,38 @@
-title: Custom Template
+title: Contribute - Help
 plan:
-- title: Welcome
-  statement: markdowns/welcome.md
+- title: Why contribute?
+  statement: pages/why.md
+- title: Types of Contributions
+  plan:
+  - title: Puzzle
+    statement: pages/types/puzzle.md
+  - title: Clash of Code
+    statement: pages/types/coc.md
+  - title: Optimization Puzzle
+    statement: pages/types/opti.md
+  - title: Bot Programming Game
+    statement: pages/types/ai.md
+  - title: Contest
+    statement: pages/types/contest.md
+  - title: Blog Article
+    statement: pages/types/blog.md
+  - title: Playground
+    statement: pages/types/playground.md
+  - title: CodinGamer Tool
+    statement: pages/types/tool.md
+- title: Contributing to CodinGame
+  plan:
+  - title: Moderation
+    statement: pages/contribute/moderation.md
+  - title: Licensing
+    statement: pages/contribute/license.md
+- title: Community
+  plan:
+  - title: List of Community Contests
+    statement: pages/community/contest.md
+  - title: List of Community Tools
+    statement: pages/community/tool.md
+  - title: Hall of Fame
+    statement: pages/community/hof.md
+
+
