@@ -1,6 +1,8 @@
 title: Contribute - Help
 plan:
-- title: Why contribute?
+- title: Introduction
+  plan:
+  - title: Why Contribute?
   statement: pages/why.md
 - title: Types of Contributions
   plan:
