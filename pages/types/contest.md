@@ -2,7 +2,7 @@ A team of CodinGamers create a game/puzzle with the help of CodinGame. CodinGame
 
 CodinGame started organizing community contests in 2017. The first one, Mean Max, was published in November 2017. The full list of community contests can be found [here](pages/community/contest.md)
 
-The creators of community contests are rewarded with a canvas of their game artwork and are granted 2500 XP on the platform. It's a great achievement for a CodinGamer. It also represents a certain amount of voluntary work.
+The creators of community contests are rewarded with a canvas of their game artwork, a CodinGame T-Shirt and are granted 2500 XP on the platform. Even if represents a certain amount of voluntary work, creating a contest as a CodinGamer is a fantastic achievement that anyone could be proud of.
 
 # Creating a Contest
 
@@ -13,7 +13,7 @@ In average, it takes a few months to create a contest. Here are the different ph
 - **Approval**: CodinGame reviews the prototype based on the guidelines below. If the prototype complies with the guidelines, the creators team must agree to work in collaboration with CodinGame to see their game/puzzle published as a contest. The creators team and CodinGame agree on a release date, name and theme for the contest. The contest is then announced to the community.
 - **Development**: The creators team continues working on their game/puzzle, with CodinGame's support. The communication is done on a private channel in Discord. CodinGame takes care of the creation of the viewer assets and also the statement translation to French if needed.
 - **Release**: CodinGame announces and releases the game. Bug fixing happens only at the beginning of a contest, except for game-breaking bugs.
-- **Post-Contest**: The creators team can modify their game/puzzle for its futur release as a non-competition.
+- **Post-Contest**: The creators team can modify their game/puzzle for its future release as a non-competition.
 
 # Rules
 
