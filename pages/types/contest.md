@@ -45,7 +45,7 @@ CodinGame will review game/puzzle prototypes based on these core guidelines:
   	- A basic viewer.
   	- A short statement (goal + protocol: In/Out).
   	- A valid stub.
-  	- A default & not crashing AI.
+  	- A default AI that does not immediately crash.
   	- A test AI (no hardcoding).
 
 # General Guidelines
