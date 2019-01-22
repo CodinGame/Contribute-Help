@@ -3,7 +3,7 @@ plan:
 - title: Introduction
   plan:
   - title: Why Contribute?
-  statement: pages/why.md
+    statement: pages/why.md
 - title: Types of Contributions
   plan:
   - title: Puzzle
