@@ -1,5 +1,5 @@
-# Unnofficial API
+CodinGame doesn't have an official API yet.
 
-# Rules
+Use CodinGame unnofficial services at your own risk.
 
-**WIP**
+_We're working on creating an official API._
