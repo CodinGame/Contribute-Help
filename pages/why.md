@@ -7,7 +7,7 @@ The CodinGame platform has many facets but its community definitely represents i
 - present and organize the different ways to contribute to the platform and to the community
 - showcase the community and the creations of its most active contributors
 
-CodinGame's official tool for community discussions is [Discord](https://discordapp.com/invite/PTYt3K8).
+On top of the embedded discussions tab for each contribution, the official tool for discussing community contributions is [Discord](https://discordapp.com/invite/PTYt3K8).
 
 # Types of contributions
 

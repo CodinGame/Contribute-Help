@@ -1,3 +1,3 @@
-Every month, we'll acknowledge the best contributors of the community.
+Every month, we could acknowledge the best contributors of the community.
 
-**WIP**
+**Work In Progress**
