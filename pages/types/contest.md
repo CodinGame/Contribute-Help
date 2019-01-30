@@ -8,7 +8,7 @@ The creators of community contests are rewarded with a canvas of their game artw
 
 In average, it takes a few months to create a contest. Here are the different phases of creation:
 
-- *Brainstorm*: CodinGamers regroup as they please and discuss ideas for a game or puzzle.
+- **Brainstorm**: CodinGamers regroup as they please and discuss ideas for a game or puzzle.
 - **Prototype**: Once they agree on one or two ideas, they start prototyping using the [CodinGame Game Engine](https://github.com/CodinGame/codingame-game-engine), also known as CodinGame sdk. Once they're happy with one prototype, they submit it for CodinGame's review. The main point of contact is [CG]Thibaud (via the chat, Discord, or by email: thibaud@codingame.com)
 - **Approval**: CodinGame reviews the prototype based on the guidelines below. If the prototype complies with the guidelines, the creators team must agree to work in collaboration with CodinGame to see their game/puzzle published as a contest. The creators team and CodinGame agree on a release date, name and theme for the contest. The contest is then announced to the community.
 - **Development**: The creators team continues working on their game/puzzle, with CodinGame's support. The communication is done on a private channel in Discord. CodinGame takes care of the creation of the viewer assets and also the statement translation to French if needed.
@@ -42,10 +42,10 @@ CodinGame will review game/puzzle prototypes based on these core guidelines:
   - The game should be fun and original.
 - Prototype
   - The prototype should contain minimum features
-  	- A basic viewer,
-  	- A short statement: a goal + a protocol (Inputs & Outputs),
-  	- A valid stub,
-  	- A default & not crashing AI,
+  	- A basic viewer.
+  	- A short statement (goal + protocol: In/Out).
+  	- A valid stub.
+  	- A default AI that does not immediately crash.
   	- A test AI (no hardcoding).
 
 # General Guidelines
