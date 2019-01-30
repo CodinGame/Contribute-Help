@@ -22,6 +22,10 @@ plan:
     statement: pages/types/playground.md
   - title: CodinGamer Tool
     statement: pages/types/tool.md
+- title Technical Details
+  plan:
+  - title: Writing the Stub
+    statement: pages/technical/stub.md
 - title: Contributing to CodinGame
   plan:
   - title: Moderation
