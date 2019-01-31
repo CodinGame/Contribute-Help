@@ -6,9 +6,9 @@ An In/Out puzzle contains a statement, a stub, and test cases.
 
 You can find find more details about these in the Technical Details section:
 
-- [Writing a Statement](/technical/statement.md#puzzle-statement)
-- [Stub Generator Syntax](/technical/stub.md)
-- [Test Cases Definition](/technical/testcase.md)
+- [Writing a Statement](pages/technical/statement.md#puzzle-statement)
+- [Stub Generator Syntax](pages/technical/stub.md)
+- [Test Cases Definition](pages/technical/testcase.md)
 
 To submit a puzzle for moderation, you must code a solution for your puzzle (in the language of your choice).
 

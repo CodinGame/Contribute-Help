@@ -1,6 +1,6 @@
 The statement should be written **in English**. Make it as **clear and consise** as possible.
 
-## Puzzle Statement 
+## Puzzle Statement
 _(In/Out puzzle and CoC only)_
 
 The statement of a puzzle describes the problem that the players have to solve.
