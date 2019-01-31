@@ -44,7 +44,7 @@ CodinGame will review game/puzzle prototypes based on these core guidelines:
   - The prototype should contain minimum features
   	- A basic viewer.
   	- A short statement (goal + protocol: In/Out).
-  	- A valid stub.
+  	- A valid [stub](/technical/stub.md).
   	- A default AI that does not immediately crash.
   	- A test AI (no hardcoding).
 
@@ -78,7 +78,7 @@ The following guidelines refer to a final game more than to a prototype. They sh
   - The game should be turn-based. Only perform checks (collision, presence, etc.) at the end of a turn.
   - The total entities should not exceed 200.
   - The maximum number of rounds should not exceed 250.
-- Statement
+- [Statement](technical/statement.md#game-statement)
   - The statement should not contain flavour text (clarity > style).
   - The statement should not address the reader directly (clarity > style).
   - The length of the statement should not exceed 6k characters.

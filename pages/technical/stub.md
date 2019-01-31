@@ -1,5 +1,3 @@
-# Stub Generator Syntax
-
 ## General 
 The stub generator is the program which will write in every available language the default code you get when you open the IDE. To do this, the generator needs input written using the syntax below.
 

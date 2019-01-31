@@ -2,9 +2,12 @@ The CodinGame Blog is being maintained by Thibaud Jobert, CodinGame's community 
 
 ## A Community Blog
 
-The CodinGame's blog is a community blog in the sense that articles are written by both CodinGame and CodinGamers.
+The [CodinGame's blog](https://www.codingame.com/blog/) is a community blog in the sense that articles are written by both CodinGame and CodinGamers.
 
-The main objective of this blog is to be both useful and entertaining for the readers.
+The main objectives of the CodinGame's blog are the following:
+- help the reader with useful advice
+- entertain the reader with interesting articles
+- motivate the reader with inspiring stories
 
 Anyone can write an article and have it published (with Thibaud's help).
 

@@ -1,5 +1,1 @@
-# Process
-
-# Rules
-
-# Guidelines
+**Work In Progress**

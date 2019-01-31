@@ -24,8 +24,10 @@ plan:
     statement: pages/types/tool.md
 - title: Technical Details
   plan:
-  - title: Writing the Stub
+  - title: Stub Generator Syntax
     statement: pages/technical/stub.md
+  - title: Writing the statement
+    statement: pages/technical/statement.md
 - title: Contributing to CodinGame
   plan:
   - title: Moderation
