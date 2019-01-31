@@ -28,7 +28,7 @@ plan:
     statement: pages/technical/statement.md
   - title: Stub Generator Syntax
     statement: pages/technical/stub.md
-  - title: Defining the Test Cases
+  - title: Defining Test Cases
     statement: pages/technical/testcase.md
 - title: Contributing to CodinGame
   plan:
