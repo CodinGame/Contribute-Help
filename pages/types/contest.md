@@ -88,7 +88,7 @@ The following guidelines refer to a final game more than to a prototype. They sh
   - The minimum font size should be 36px.
   - The choice of colors should take into account color-blind people as much as possible.
 - Viewer Prototype
-  - :X: Don't
-  <img src="https://admin.codingame.com/servlet/fileservlet?id=24927507397690" alt="bad prototype example" width="200"/>
-  - :white_check_mark: Do
+  - ❌ Don't
+  <img src="https://admin.codingame.com/servlet/fileservlet?id=24927507397690" alt="bad prototype example" style="width:200px;"/>
+  - ✅ Do
   <img src="https://admin.codingame.com/servlet/fileservlet?id=24927516490637" alt="good prototype example" width="200"/>
