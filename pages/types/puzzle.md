@@ -1,14 +1,40 @@
-There are two different kinds of puzzles:
+In/Out Puzzles are created via a simple form on the CodinGame site. It's the most classic type of puzzle on CodinGame
 
-- **In/Out puzzles**: the most classic puzzle on CodinGame; compute a result once based on some input and send it in the output stream. Result is checked against test cases. They are built with a simple form.
-- **Gameloop puzzles**: turn-based game, most of the times associated with a viewer; in an infinite loop, read the entries in the input stream and send an output to play the game. They are built with the CodinGame game engine (aka the sdk).
+A player must return a response in the Standard Output stream computed from information read in the Standard Input stream. To validate the puzzle, the player must pass all test cases.
 
-Learn how to write a statement [here](/technical/statement.md#puzzle-statement)
+A In/Out puzzle contains a statement, a stub, and test cases.
 
-## Test Cases
+You can find find more details about these in the Technical Details section:
 
-Each test case has a test and a validator. Tests are visible to the participants whereas validators are hidden.
+- [Writing a Statement](/technical/statement.md#puzzle-statement)
+- [Stub Generator Syntax](/technical/stub.md)
+- [Test Cases Definition](/technical/testcase.md)
 
-Each validator must be related (in terms of content) to its corresponding test but different at the same time to avoid hardcoding.
+To submit a puzzle for moderation, you must code a solution for your puzzle (in the language of your choice).
 
-The first test must be simple because it will be included in the statement. Try to fill in the tests with an increasing level of difficulty.
+## Tags and Difficulty
+
+For a better description of the puzzle, you must also add tags and assess its difficulty.
+
+Tags examples: _Conditios, Graphs, Loops..._
+
+NB: _Assess the difficulty based on the difficulty of existing puzzles, not on your ability to solve the puzzle._
+
+## Clash of Code
+
+Clash of Code puzzles are simple In/Out puzzles specially created for short multiplayer battles. They're aimed to be solved in less than 15 minutes. 
+
+A Clash of Code puzzle must have at least 1 puzzle mode:
+
+- **Fastest**: the most classic mode; the first player who passes all test cases wins.
+- **Shortest**: also known as "code golf"; the first player who passes all test cases with the least number of character wins.
+- **Reverse**: same as fastest but the players should guess what to do (the statement is hidden, only tests are shown); the first player who guesses what to do and passes all test cases wins.
+_No need to write a statement for a reverse-only CoC then_
+
+There are no tags nor a difficulty associated with a Clash of Code puzzle.
+
+
+
+
+
+

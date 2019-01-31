@@ -6,10 +6,8 @@ plan:
     statement: pages/why.md
 - title: Types of Contributions
   plan:
-  - title: Puzzle
+  - title: In/Out Puzzle
     statement: pages/types/puzzle.md
-  - title: Clash of Code
-    statement: pages/types/coc.md
   - title: Optimization Puzzle
     statement: pages/types/opti.md
   - title: Bot Programming Game
@@ -26,7 +24,7 @@ plan:
   plan:
   - title: Stub Generator Syntax
     statement: pages/technical/stub.md
-  - title: Writing the statement
+  - title: Writing the Statement
     statement: pages/technical/statement.md
 - title: Contributing to CodinGame
   plan:

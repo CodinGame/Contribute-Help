@@ -11,37 +11,35 @@ The statement of a puzzle describes the problem that the players have to solve.
 
 `Monospace` renders as:
 
-### Statement
-#### The Story (non-mandatory)
+### The Story (non-mandatory)
 
 Keep it short. It should serve the puzzle, not the contrary.
 
 Avoid controversial topics like politics.
 
-#### The Goal
+### The Goal
 
 A short description of the goal of the puzzle: 1 or 2 sentences maximum.
 
 Ex: _You must output the closest pair of points (euclidean distance)._
 
-#### The Rules
+### The Rules
 
 Explain how the puzzle works and what players are supposed to read from the input and send in output. Keep it concise: give the minimum amount of information needed to solve the problem.
 
-### The Protocol
-#### Input Description
+### Input Description
 Describe line by line, what must be read from standard input.
 
 Ex: _<<Line 1:>> An integer [[N]] for the number of points to compare.
 <<Next [[N]] lines:>> Two space separated integers [[x]] and [[y]] for the coordinates of a point._
 
-#### Output Description
+### Output Description
 Describe line by line, what must be written to the standard output.
 
 Ex: _<<Line 1 :>> The coordinates of the point from the closest pair of points in the same order as given in input.
 <<Line 2 :>> The coordinates of the other point from the closest pair of points._
 
-#### Constraints
+### Constraints
 Describe the variable constraints if you think they are needed to solve the problem.
 
 Ex: _2 ≤ [[N]] ≤ 100
@@ -82,19 +80,21 @@ There are one statement file per leagues. They're all generated from one general
 
 To show a piece of statement only in the league _x_, write
 
-`<!-- BEGIN levelx -->
+```html
+<!-- BEGIN levelx -->
 	Piece of statement.
-<!-- END -->`
+<!-- END -->```
 
 To highlight a new rule, use the same as above with the following div style:
 
-`<!-- BEGIN levelx -->
+```html
+<!-- BEGIN levelx -->
 <div style="color: #7cc576;
         background-color: rgba(124, 197, 118,.1);
         padding: 2px;">
     Piece of statement.
 </div>
-<!-- END -->`
+<!-- END -->```
 
 
 
