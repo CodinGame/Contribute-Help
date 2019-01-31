@@ -62,11 +62,11 @@ It should contain:
 5. An example of Intput/Output
 6. (non-mandatory) A story
 
-### Guidelines
+### Guidelines <a name="guidelines"/>
 
 - Keep it simple and consise
 _A long statement can scare players away._
-- Avoid flabour text
+- Avoid flavour text
 _For instance, **don’t say** “The unit hits the other unit on the nose, causing 1 point of excruciating damage”, do say “The unit deals 1 damage”._
 - Don't address the reader directly
 _For instance **don’t say** “This next part looks complicated but you’ll get it, don’t worry!”._

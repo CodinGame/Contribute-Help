@@ -6,7 +6,7 @@ plan:
     statement: pages/why.md
 - title: Types of Contributions
   plan:
-  - title: In/Out Puzzle
+  - title: In/Out Puzzle (+Clash of Code)
     statement: pages/types/puzzle.md
   - title: Gameloop Puzzle
     statement: pages/types/game.md

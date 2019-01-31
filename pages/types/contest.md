@@ -24,9 +24,9 @@ CodinGame contests engage CodinGame's brand. Therefore, CodinGame asks contribut
 - CodinGame employees remain the final judges on all points. _We have the experience, trust us_
 - No inappropriate content.
 
-# Core Guidelines
+# Guidelines
 
-CodinGame will review game/puzzle prototypes based on these core guidelines:
+CodinGame will review game/puzzle prototypes based on these following core guidelines:
 
 > Note: all recent contests have been AI games. These guidelines reflect this trend but everything is possible.
 
@@ -48,47 +48,9 @@ CodinGame will review game/puzzle prototypes based on these core guidelines:
   	- A default AI that does not immediately crash.
   	- A test AI (no hardcoding).
 
-# General Guidelines
+During the Developement phase, [general guidelines](pages/types/ai.md#guidelines) and [best practices](pages/types/ai.md#best-practices) should be respected.
 
-The following guidelines refer to a final game more than to a prototype. They should be respected as much as possible during the Development phase.
+## Viewer Prototype
 
-- Viewer
-  - The viewer must be self-explanatory. _A player should understand most of the rules from a replay_
-  - The viewer must contain the avatars and nicknames of current players (if multi).
-- Referee
-  - The referee must end a player's program when receiving an unrecognizable command.
-  - The referee must send an error message in the console when receiving an invalid but recognized command.
-  - The referee must stop the game early if the game is stale or already decided.
-  - The referee must not crash. All exceptions must be caught (especially during the parsing of a Player’s actions, where most errors occur).
-  - Indices must start at 0, not 1. The origin is always the top left pixel/tile.
-
-
-# Best Practices
-
-- Protocol/Stub
-  - If options for a player are limited, they should be sent in input (ex: [Wondev Woman](https://www.codingame.com/ide/puzzle/wondev-woman))
-  - The player's id should be 0.
-  - The player's input should be sent first in loops.
-  - Any non-explicit variable should be explained with a comment.
-  - The stub should not change between leagues.
-  - The generated stub should not contain more than 45 lines in Java.
-  - The number of variables per loop should not exceed 10.
-  - There should be maximum 2 loops.
-- Gameplay
-  - The game should be turn-based. Only perform checks (collision, presence, etc.) at the end of a turn.
-  - The total entities should not exceed 200.
-  - The maximum number of rounds should not exceed 250.
-- [Statement](technical/statement.md#game-statement)
-  - The statement should not contain flavour text (clarity > style).
-  - The statement should not address the reader directly (clarity > style).
-  - The length of the statement should not exceed 6k characters.
-- Graphics
-  - The viewer should contain less than 20 shapes visible at once (rectangle, circle, etc.) or should use sprites.
-  - Less than 2Mb in total should be used.
-  - The minimum font size should be 36px.
-  - The choice of colors should take into account color-blind people as much as possible.
-- Viewer Prototype
-  - ❌ Don't
-  <img src="https://admin.codingame.com/servlet/fileservlet?id=24927507397690" alt="bad prototype example" style="width:200px;"/>
-  - ✅ Do
-  <img src="https://admin.codingame.com/servlet/fileservlet?id=24927516490637" alt="good prototype example" width="200"/>
+<img src="https://admin.codingame.com/servlet/fileservlet?id=24927507397690" alt="bad prototype example" style="width:200px;"/>❌ Don't</img>
+<img src="https://admin.codingame.com/servlet/fileservlet?id=24927516490637" alt="good prototype example" width="200"/>✅ Do</img>

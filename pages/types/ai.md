@@ -1,66 +1,40 @@
 @TODO
 
-# Guidelines
+# General Guidelines <a name="guidelines"/>
 
 When creating your game, we suggest you follow these guidelines in order to improve both its performance and players experience.
 
-## Technical Guidelines
+- Viewer
+  - The viewer must be self-explanatory. _A player should understand most of the rules from a replay_
+  - The viewer must contain the avatars and nicknames of current players (if multi).
+- Referee
+  - The referee must end a player's program when receiving an unrecognizable command.
+  - The referee must send an error message in the console when receiving an invalid but recognized command.
+  - The referee must stop the game early if the game is stale or already decided.
+  - The referee must not crash. All exceptions must be caught (especially during the parsing of a Player’s actions, where most errors occur).
+  - Indices must start at 0, not 1. The origin is always the top left pixel/tile.
+The game should also respect the [statement guidelines](pages/technical/statement.md#guidelines)
 
-- The game should be noob friendly. Can make a workable AI with a bunch of ifs. 
-- If it is a game with limited output options per turn, send those options in the protocol (e.g. the first player of chess has 20 possible actions).
-- Viewer should be enough to understand most of the rules.
-- Gameplay based around rounds/turns. Only perform checks (collision, presence, etc.) at the end of a turn.
-- End player’s program when it outputs an unrecognised command. Continue player’s program when it outputs a recognised but invalid command and add error message to summary.
-- Stop game early if players aren’t doing anything or are otherwise stalemated.
-- Stop game early if the ranking is decided whatever the players may do.
-- Always minify png and jpg assets.
-- The Referee must not crash, make sure all possible exceptions are caught, especially during the parsing of a Player’s actions, where most errors occur.
-- Minimum font size: 36px.
+# Best Practices
 
-## Soft Limits
-
-The following limits will make your game run faster, but they are not strict limitations.
-
-- Statement length: less than 6k characters
-- Total entity creations: less than 200.
-- Max total time alloted to the players: 25s.
-
-## Protocol:
-
-The following lines will help most players to get into your game. Try to simplify things when possible. 
-
-- Two loops max for input.
-- Variables to read per loop: less than 10.
-- Stub generator must not exceed: 45 lines of Java.
-- If the player is given an ID, it is always 0.
-
-## Graphics:
-
-- Privilege the use of Sprites over Shapes (Rectangle, Circle, etc.)
-- Use less than 2Mb total for assets.
-
-## Games with leagues
-
-- Stubs should, if possible, be the same for every league.
-- If a game needs at least 1 data structure to make an AI that doesn’t crash, it needs an easier league.
-
-## Rules
-
-When contributing on CodinGame, you must accept and apply these rules:
-
-- Your game must not contain any kind of inappropriate content.
-- Write a stub generator. The documentation can be found in the [CodinGame SDK repository](https://github.com/CodinGame/codingame-game-engine/blob/master/stubGeneratorSyntax.md). Any non-explicit variable must be explained with a comment.
-
-## Validation Criteria
-
-To validate
-
-validationCriteria": { 
-      "clearDescription": "The description is clear and non-ambiguous",
-      "fastEntry": "It's possible to write a working AI in a few minutes",
-      "hasGameInfo": "Important frame information is displayed in the console and/or tooltips",
-      "robustSyntax": "Erroneous output does not cause the game to crash",
-      "robustRules": "Unexpected player actions do not cause the game to crash",
-      "niceViewer": "The graphics are clear and represent the progression of the game well",
-      "incrementalLeagues": "If several leagues exist: boss difficulty is low but requires knowledge of each new set of rules per league."
-    }
+- Protocol/Stub
+  - If options for a player are limited, they should be sent in input (ex: [Wondev Woman](https://www.codingame.com/ide/puzzle/wondev-woman))
+  - The player's id should be 0.
+  - The player's input should be sent first in loops.
+  - Any non-explicit variable should be explained with a comment.
+  - The stub should not change between leagues.
+  - The generated stub should not contain more than 45 lines in Java.
+  - The number of variables per loop should not exceed 10.
+  - There should be maximum 2 loops.
+- Gameplay
+  - The game should be turn-based. Only perform checks (collision, presence, etc.) at the end of a turn.
+  - The total entities should not exceed 200.
+  - The maximum number of rounds should not exceed 250.
+  - The maximum alloted time per player should not exceed 25 seconds.
+- Graphics
+  - Privilege the use of Sprites over Shapes (Rectangle, Circle, etc.)
+  - Less than 2Mb in total should be used.
+  - The minimum font size should be 36px.
+  - The choice of colors should take into account color-blind people as much as possible.
+  - .png and .jpg assets should be minified.
+- [Statement](pages/technical/statement.md#game-statement)
