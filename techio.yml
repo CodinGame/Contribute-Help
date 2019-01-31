@@ -8,10 +8,12 @@ plan:
   plan:
   - title: In/Out Puzzle
     statement: pages/types/puzzle.md
-  - title: Optimization Puzzle
-    statement: pages/types/opti.md
+  - title: Gameloop Puzzle
+    statement: pages/types/game.md
   - title: Bot Programming Game
     statement: pages/types/ai.md
+  - title: Optimization Puzzle
+    statement: pages/types/opti.md
   - title: Contest
     statement: pages/types/contest.md
   - title: Blog Article
@@ -22,10 +24,12 @@ plan:
     statement: pages/types/tool.md
 - title: Technical Details
   plan:
-  - title: Stub Generator Syntax
-    statement: pages/technical/stub.md
   - title: Writing the Statement
     statement: pages/technical/statement.md
+  - title: Stub Generator Syntax
+    statement: pages/technical/stub.md
+  - title: Defining the Test Cases
+    statement: pages/technical/testcase.md
 - title: Contributing to CodinGame
   plan:
   - title: Moderation

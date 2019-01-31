@@ -1,6 +1,6 @@
 ## [Mean Max (Nov. 2017)](https://www.codingame.com/multiplayer/bot-programming/mean-max)
 
-![Mean Max artwork](https://admin.codingame.com/servlet/fileservlet?id=15992776376543 =600x)
+<img src="https://admin.codingame.com/servlet/fileservlet?id=15992776376543" alt="Mean Max artwork" width="600"/>
 ![Mean Max logo](https://admin.codingame.com/servlet/fileservlet?id=23549137730564 =200x)
 
 Created by Agade, Magus, pb4 and reCurse

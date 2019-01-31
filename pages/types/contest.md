@@ -87,3 +87,6 @@ The following guidelines refer to a final game more than to a prototype. They sh
   - Less than 2Mb in total should be used.
   - The minimum font size should be 36px.
   - The choice of colors should take into account color-blind people as much as possible.
+- Viewer Prototype
+  - :X: Don't
+  - :white_check_mark: Do
