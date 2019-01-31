@@ -16,7 +16,7 @@ Here is a list of all things you can create to contribute to CodinGame.
 1. In/Out Puzzles
 _(created via a form on CodinGame)_
 	- [Classic Puzzle](pages/types/puzzle.md)
-	- [Clash of Code](pages/types/puzzle.md#clash-of-code)
+	- [Clash of Code](pages/types/puzzle.md#clash)
 2. Coding Games
 _(created with the CodinGame Game Engine, also known as the sdk)_
 	- [Gameloop Puzzle](/pages/types/game.md)

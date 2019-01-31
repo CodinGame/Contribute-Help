@@ -20,7 +20,7 @@ Tags examples: _Conditions, Graphs, Loops..._
 
 **NB:** Assess the difficulty based on the difficulty of existing puzzles, not on your ability to solve the puzzle.
 
-## Clash of Code
+## <a name="clash">Clash of Code</a>
 
 Clash of Code puzzles are simple In/Out puzzles specially created for short multiplayer battles. They're aimed to be solved in less than 15 minutes. 
 
