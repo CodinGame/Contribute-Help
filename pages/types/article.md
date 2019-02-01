@@ -1,4 +1,4 @@
-# Blog Article <a ="blog"/>
+# Blog Article <a name="blog"/>
 
 The CodinGame Blog is being maintained by Thibaud Jobert, CodinGame's community manager, also known as [[CG]Thibaud](https://www.codingame.com/profile/54ef16b306fb1ce337d82f7f39c441fc8366041).
 

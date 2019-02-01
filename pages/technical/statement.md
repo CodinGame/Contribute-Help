@@ -9,7 +9,9 @@ The statement of a puzzle describes the problem that the players have to solve.
 
 <<Bold>> [[Variable]] {{Constant}} renders as:
 
-`Monospace` renders as:
+<img src="https://admin.codingame.com/servlet/fileservlet?id=2208548269998" alt="statement syntax" width="200"/>
+
+/`Monospace/` renders as: `Monospace`
 
 ## The Story (non-mandatory)
 
@@ -74,7 +76,7 @@ _For instance **don’t say** “This next part looks complicated but you’ll g
 
 ## Leagues
 
-There are one statement file per leagues. They're all generated from one general statement file (/config/statement_en.html.tpl) when building the project.
+There are one statement file per leagues. They're all generated from one general statement file (located here: /config/statement_en.html.tpl) when building the project.
 
 ## Conditional logic
 
@@ -83,7 +85,8 @@ To show a piece of statement only in the league _x_, write
 ```html
 <!-- BEGIN levelx -->
 	Piece of statement.
-<!-- END -->```
+<!-- END -->
+```
 
 To highlight a new rule, use the same as above with the following div style:
 
@@ -94,7 +97,8 @@ To highlight a new rule, use the same as above with the following div style:
         padding: 2px;">
     Piece of statement.
 </div>
-<!-- END -->```
+<!-- END -->
+```
 
 
 
