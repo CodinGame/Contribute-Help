@@ -1,6 +1,6 @@
 The CodinGame Blog is being maintained by Thibaud Jobert, CodinGame's community manager, also known as [[CG]Thibaud](https://www.codingame.com/profile/54ef16b306fb1ce337d82f7f39c441fc8366041).
 
-## A Community Blog
+# A Community Blog
 
 The [CodinGame's blog](https://www.codingame.com/blog/) is a community blog in the sense that articles are written by both CodinGame and CodinGamers.
 
@@ -11,7 +11,7 @@ The main objectives of the CodinGame's blog are the following:
 
 Anyone can write an article and have it published (with Thibaud's help).
 
-## Main Topics
+# Main Topics
 
 - [Programming is Fun](https://www.codingame.com/blog/category/all-articles/programming-is-fun/): This is CodinGame's motto. Gamification is at the heard of the platform and is part of its DNA.
 _Topic examples: gamification, coding competitions, coding games..._
@@ -26,7 +26,7 @@ _Topic Examples: surveys, developer tips, CodinGamer stories..._
 - [About CodinGame](https://www.codingame.com/blog/category/all-articles/inside-codingame/): A lot of things happen on the CodinGame platform: any new related to the puzzles, games, team...
 _Topic eamples: feature updates, new puzzles, contest announcements..._
 
-## Contribution Process
+# Contribution Process
 
 Any contributor is the most welcomed! 
 

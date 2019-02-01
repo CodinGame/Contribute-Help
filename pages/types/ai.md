@@ -13,6 +13,7 @@ When creating your game, we suggest you follow these guidelines in order to impr
   - The referee must stop the game early if the game is stale or already decided.
   - The referee must not crash. All exceptions must be caught (especially during the parsing of a Player’s actions, where most errors occur).
   - Indices must start at 0, not 1. The origin is always the top left pixel/tile.
+
 The game should also respect the [statement guidelines](pages/technical/statement.md#guidelines)
 
 # Best Practices
@@ -37,4 +38,3 @@ The game should also respect the [statement guidelines](pages/technical/statemen
   - The minimum font size should be 36px.
   - The choice of colors should take into account color-blind people as much as possible.
   - .png and .jpg assets should be minified.
-- [Statement](pages/technical/statement.md#game-statement)

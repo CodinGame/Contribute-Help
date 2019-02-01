@@ -1,6 +1,6 @@
 The stub generator is the program which will write in every available language the default code you get when you open the IDE. To do this, the generator needs input written using the syntax below.
 
-## General Syntax
+# General Syntax
 
 Each line of the **main block** must contain one of the following commands:
 
@@ -34,7 +34,7 @@ A `loopline` will collect `<amount>` times repeated data from a single line.
 
 A `write` will print `<text>` onto the standard output. `<text>` can be a function `join()` which takes either plain text or variable names and joins them separated by spaces in the generated code.
 
-## Comments Syntax
+# Comments Syntax
 
 You may assign comments to any of the input variable by adding an **input block** one line away from the previous block.
 ```
@@ -67,9 +67,7 @@ STATEMENT
 Move your unit around the grid and win the game!
 ```
 
-## Example
-
-### CodeBusters Stub
+## Example: CodeBusters Stub
 
 ```
 read bustersPerPlayer:int
@@ -126,7 +124,7 @@ while True:
         print "MOVE 8000 4500"
 ```
 
-### Nested loops
+## Nested loops
 
 ```
 read n:int
