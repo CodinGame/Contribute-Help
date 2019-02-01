@@ -19,13 +19,13 @@ _(created via a form on CodinGame)_
 	- [Clash of Code](pages/types/puzzle.md#clash)
 2. Coding Games
 _(created with the CodinGame Game Engine, also known as the sdk)_
-	- [Gameloop Puzzle](/pages/types/game.md)
-	- [Bot Programming Game](pages/types/ai.md)
-	- [Optimization Puzzle/Game](pages/types/opti.md)
+	- [Gameloop Puzzle](/pages/types/game.md#gameloop)
+	- [Bot Programming Game](pages/types/game.md#ai)
+	- [Optimization Puzzle/Game](pages/types/ogame.md#opti)
 	- [Contest](pages/types/contest.md)
 3. Articles
-	- [Blog Article](pages/types/blog.md)
-	- [Playground](pages/types/playground.md)
+	- [Blog Article](pages/types/article.md#blog)
+	- [Playground](pages/types/article.md#playground)
 4. Other
 	- [CodinGamer Tool](pages/types/tool.md)
 

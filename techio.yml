@@ -6,20 +6,20 @@ plan:
     statement: pages/why.md
 - title: Types of Contributions
   plan:
-  - title: In/Out Puzzle (+Clash of Code)
+  - title: "In/Out Puzzles (Classic, Clash of Code)"
     statement: pages/types/puzzle.md
-  - title: Gameloop Puzzle
+  - title: "Coding Games (Gameloop, Optimization, Bot Programming)"
     statement: pages/types/game.md
-  - title: Bot Programming Game
-    statement: pages/types/ai.md
-  - title: Optimization Puzzle
-    statement: pages/types/opti.md
+  #- title: Bot Programming Game
+    #statement: pages/types/ai.md
+  #- title: Optimization Puzzle
+    #statement: pages/types/opti.md
   - title: Contest
     statement: pages/types/contest.md
-  - title: Blog Article
-    statement: pages/types/blog.md
-  - title: Playground
-    statement: pages/types/playground.md
+  - title: "Articles (Blog, Playground)"
+    statement: pages/types/article.md
+  #- title: Playground
+    #statement: pages/types/playground.md
   - title: CodinGamer Tool
     statement: pages/types/tool.md
 - title: Technical Details
@@ -42,7 +42,7 @@ plan:
     statement: pages/community/contest.md
   - title: List of Community Tools
     statement: pages/community/tool.md
-  - title: Hall of Fame
-    statement: pages/community/hof.md
+  #- title: Hall of Fame
+    #statement: pages/community/hof.md
 
 
