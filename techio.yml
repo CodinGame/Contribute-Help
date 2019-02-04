@@ -34,6 +34,8 @@ plan:
   plan:
   - title: Moderation
     statement: pages/contribute/moderation.md
+  - title: Rewards
+    statement: pages/contribute/reward.md
   - title: Licensing
     statement: pages/contribute/license.md
 - title: Community
