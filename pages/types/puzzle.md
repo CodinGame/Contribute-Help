@@ -1,5 +1,7 @@
 In/Out Puzzles are created via a simple form on the CodinGame site. It's the most classic type of puzzle on CodinGame
 
+# Classic In/Out Puzzles
+
 A player must return a response in the Standard Output stream computed from information read in the Standard Input stream. To validate the puzzle, the player must pass all test cases.
 
 An In/Out puzzle contains a statement, a stub, and test cases.

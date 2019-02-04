@@ -4,16 +4,20 @@ In an "infinite" loop, the player(s) must read the entries in the standard input
 
 There are three types of coding games.
 
-**All coding games should respect the [statement guidelines](pages/technical/statement.md#guidelines) and [games general guidelines](#guidelines) and follow [best practices](#best-practice).**
+**All coding games should**
+- respect the [statement guidelines](pages/technical/statement.md#guidelines).
+- respect the [games general guidelines](#guidelines).
+- follow [best practices](#best-practice).
 
 # Gameloop Puzzle <a name="gameloop"/>
 
 Like for In/Out puzzles, the player plays against the game and must pass all test cases to solve the puzzle.
 
 Example: [Power of Thor](https://www.codingame.com/training/easy/power-of-thor-episode-1)
-Each turn the player must output a direction for Thor to take to finally reach the light.
 
-**Gameloop puzzles should also respect the [test cases guidelines](pages/technical/testcase.md#guidelines)**
+Each turn, the player must output a direction for Thor to take to finally reach the light.
+
+**Gameloop puzzles should also respect the [test cases guidelines](pages/technical/testcase.md#guidelines).**
 
 [Learn how to create a GameLoop puzzle with the sdk](https://www.codingame.com/playgrounds/25775/codingame-sdk-documentation/create-a-solo-game)
 
@@ -37,10 +41,10 @@ They must have a large number of test cases. Learn more about it in the [test ca
 
 When creating your game, we suggest you follow these guidelines in order to improve both its performance and players experience.
 
-- Viewer
+- **Viewer**
   - The viewer must be self-explanatory. _A player should understand most of the rules from a replay_
   - The viewer must contain the avatars and nicknames of current players (if bot programming).
-- Referee
+- **Referee**
   - The referee must end a player's program when receiving an unrecognizable command.
   - The referee must send an error message in the console when receiving an invalid but recognized command.
   - The referee must stop the game early if the game is stale or already decided.
@@ -49,7 +53,7 @@ When creating your game, we suggest you follow these guidelines in order to impr
 
 # Best Practices <a name="best-practice"/>
 
-- Protocol/Stub
+- **Protocol/Stub**
   - If options for a player are limited, they should be sent in input (ex: [Wondev Woman](https://www.codingame.com/ide/puzzle/wondev-woman))
   - The player's id should be 0.
   - The player's input should be sent first in loops.
@@ -58,12 +62,12 @@ When creating your game, we suggest you follow these guidelines in order to impr
   - The generated stub should not contain more than 45 lines in Java.
   - The number of variables per loop should not exceed 10.
   - There should be maximum 2 loops.
-- Gameplay
+- **Gameplay**
   - The game should be turn-based. Only perform checks (collision, presence, etc.) at the end of a turn.
   - The total entities should not exceed 200.
   - The maximum number of rounds should not exceed 250.
   - The maximum alloted time per player should not exceed 25 seconds.
-- Graphics
+- **Graphics**
   - Privilege the use of Sprites over Shapes (Rectangle, Circle, etc.)
   - Less than 2Mb in total should be used.
   - The minimum font size should be 36px.
