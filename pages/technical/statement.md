@@ -7,11 +7,11 @@ The statement of a puzzle describes the problem that the players have to solve.
 
 ## Syntax
 
-<<"Bold">> [[Variable]] {{Constant}} renders as:
+\<\<Bold\>\> [[Variable]] {{Constant}} renders as:
 
 <img src="https://admin.codingame.com/servlet/fileservlet?id=2208548269998" alt="statement syntax" width="200"/>
 
-/`Monospace/` renders as: `Monospace`
+\`Monospace\` renders as: `Monospace`
 
 ## The Story (non-mandatory)
 

@@ -9,37 +9,38 @@ There are three types of coding games.
 - respect the [games general guidelines](#guidelines).
 - follow [best practices](#best-practice).
 
-# Gameloop Puzzle <a name="gameloop"/>
+## Solo Puzzle (with a viewer)<a name="gameloop"/>
 
 Like for In/Out puzzles, the player plays against the game and must pass all test cases to solve the puzzle.
 
-Example: [Power of Thor](https://www.codingame.com/training/easy/power-of-thor-episode-1)
-
-Each turn, the player must output a direction for Thor to take to finally reach the light.
+_Example: [Power of Thor](https://www.codingame.com/training/easy/power-of-thor-episode-1)
+Each turn, the player must output a direction for Thor to take to finally reach the light._
 
 **Gameloop puzzles should also respect the [test cases guidelines](pages/technical/testcase.md#guidelines).**
 
-[Learn how to create a GameLoop puzzle with the sdk](https://www.codingame.com/playgrounds/25775/codingame-sdk-documentation/create-a-solo-game)
+[Learn how to create a Solo puzzle with the sdk](https://www.codingame.com/playgrounds/25775/codingame-sdk-documentation/create-a-solo-game)
 
-# Bot Programming Game <a name="ai"/>
+## Multiplayer Game (bot programming) <a name="ai"/>
 
 Participants play against themselves in matches of 2 to 4 players in an arena. No more test cases. Once players submit their code (AI) in the arena, the system matches them against other players of the arena. Each match between players impacts their score, hence their ranking.
 
 [Learn how to create a Bot Programming game with the sdk](https://www.codingame.com/playgrounds/25775/codingame-sdk-documentation/create-a-multiplayer-game)
 
-## Games with Leagues
+### Games with Leagues
 
 @TODO
 
-# Optimization Puzzle <a name="opti"/>
+## Optimization Puzzle <a name="opti"/>
 
-Optimization puzzles are gameloop puzzles for which a player's score is computed. All players are then ranked against this score.
+Optimization puzzles are puzzles for which a player's score is computed. All players are then ranked against this score.
 
 They must have a large number of test cases. Learn more about it in the [test cases guidelines for optimization puzzles](pages/technical/testcase.md#guidelines-opti)
 
-# Coding Game General Guidelines <a name="guidelines"/>
+[Learn how to create an Optimization puzzle with the sdk](https://www.codingame.com/playgrounds/25775/codingame-sdk-documentation/create-a-multiplayer-game)
 
-When creating your game, we suggest you follow these guidelines in order to improve both its performance and players experience.
+# General Guidelines <a name="guidelines"/>
+
+When creating your coding game, we ask you to follow these guidelines in order to improve both its performance and players experience.
 
 - **Viewer**
   - The viewer must be self-explanatory. _A player should understand most of the rules from a replay_
@@ -52,6 +53,8 @@ When creating your game, we suggest you follow these guidelines in order to impr
   - Indices must start at 0, not 1. The origin is always the top left pixel/tile.
 
 # Best Practices <a name="best-practice"/>
+
+When creating your coding game, we suggest you follow these best practices in order to improve both its performance and players experience.
 
 - **Protocol/Stub**
   - If options for a player are limited, they should be sent in input (ex: [Wondev Woman](https://www.codingame.com/ide/puzzle/wondev-woman))

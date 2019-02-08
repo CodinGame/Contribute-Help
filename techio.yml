@@ -6,9 +6,9 @@ plan:
     statement: pages/why.md
 - title: Types of Contributions
   plan:
-  - title: "In/Out Puzzles (Classic, Clash of Code)"
+  - title: "In/Out Puzzles"
     statement: pages/types/puzzle.md
-  - title: "Coding Games (Gameloop, Optimization, Bot Programming)"
+  - title: "Coding Games"
     statement: pages/types/game.md
   #- title: Bot Programming Game
     #statement: pages/types/ai.md
@@ -16,7 +16,7 @@ plan:
     #statement: pages/types/opti.md
   - title: Contest
     statement: pages/types/contest.md
-  - title: "Articles (Blog, Playground)"
+  - title: "Articles"
     statement: pages/types/article.md
   #- title: Playground
     #statement: pages/types/playground.md
