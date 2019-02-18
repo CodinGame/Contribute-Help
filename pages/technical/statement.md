@@ -65,7 +65,7 @@ It should contain:
 6. (non-mandatory) A story
 
 
-## <a name="guidelines"/> Guidelines
+## <a name="guidelines"></a> Guidelines
 
 - Keep it simple and consise
 _A long statement can scare players away._
