@@ -40,6 +40,8 @@ plan:
     statement: pages/contribute/license.md
 - title: Community
   plan:
+  - title: CodingHubs
+    statement: pages/community/hub.md
   - title: List of Community Contests
     statement: pages/community/contest.md
   - title: List of Community Tools
