@@ -64,7 +64,8 @@ It should contain:
 5. An example of Intput/Output
 6. (non-mandatory) A story
 
-## Guidelines <a name="guidelines"/>
+
+## <a name="guidelines"></a> Guidelines
 
 - Keep it simple and consise
 _A long statement can scare players away._
