@@ -18,10 +18,11 @@ Read more:
 ## Paris
 
 May 21 at 7pm
-[egaetan at Meritis in Paris](https://www.facebook.com/events/2290872874519191/)
+
+[egaetan at Meritis](https://www.facebook.com/events/2290872874519191/)
 
 
-# List of Groups
+# List of CodinGamer Groups
 
 [CodingHub Facebook Group](https://www.facebook.com/groups/345333262492063/)
 
@@ -38,7 +39,7 @@ May 21 at 7pm
 
 # <a name="host"></a>How to host a CodingHub?
 
-Just fill [this typeform](https://codingame.typeform.com/to/ihoVPP). Thibaud will contact you and add your CodingHub to the list below.
+Just fill [this form](https://codingame.typeform.com/to/ihoVPP). Thibaud will contact you and add your CodingHub to the list above.
 
 ## Guidelines
 
@@ -54,7 +55,7 @@ _Invite your friends and colleagues, or other CodinGamers_
 4. Arrange if possible for small catering
 _What you can do is to make arrangements with participants and share the price_
 
-* Don't forget to ask for the authorization to host the hub and to invite external people.
+*Don't forget to ask for the authorization to host the hub and to invite external people.
 
 ## Why using Meetup or Facebook?
 
