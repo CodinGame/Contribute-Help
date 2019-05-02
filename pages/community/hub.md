@@ -13,13 +13,15 @@ Read more:
 - To have fun and learn
 - To network
 
+To join a CodingHub, join the corresponding event or contact the host directly.
+
 # List of Next CodingHubs
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1XWOYtGjzzsovaq8TXWHXJTZl2tqf8K0A" width="640" height="480"></iframe>
 
 ## Paris
 
-May 21 at 7pm
-
-[egaetan at Meritis](https://www.facebook.com/events/2290872874519191/)
+[egaetan at Meritis](https://www.facebook.com/events/2290872874519191/): May 21 at 7pm
 
 
 # List of CodinGamer Groups
