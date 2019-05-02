@@ -2,9 +2,10 @@
 
 A CodingHub is an event where developers meet, code and converse. Most of the times, they happen during a coding contest, so players can't discuss the game and share strategies.
 
-CodingHubs are organized by volunteers, with the assistance of CodinGame. Want to host one? See below ⬇️
+CodingHubs are organized by volunteers, with the assistance of CodinGame. Want to host one? [See below ⬇️](pages/community/hub.md#host)
 
-[More Information](https://www.codingame.com/blog/codinghubs-enjoy-coding-developers/)
+Read more:
+[CodingHubs: Enjoy Coding for Fun with other Developers](https://www.codingame.com/blog/codinghubs-enjoy-coding-developers/)
 
 ## Why join a CodingHub?
 
@@ -33,11 +34,11 @@ May 21 at 7pm
 
 ## Lublin 🇵🇱
 
-[Lubelski CodingHub](https://www.facebook.com/pg/lubelskicodinghub/about)
+[Lubelski CodingHub](https://www.facebook.com/lubelskicodinghub/)
 
-# How to host a CodingHub?
+# <a name="host"></a>How to host a CodingHub?
 
-Just fill [this typeform](). Thibaud will contact you and add your CodingHub to the list below.
+Just fill [this typeform](https://codingame.typeform.com/to/ihoVPP). Thibaud will contact you and add your CodingHub to the list below.
 
 ## Guidelines
 
@@ -47,13 +48,13 @@ _They are usually held in the evening after work and last 2 to 3 hours._
 2. Find the venue: a room at your company/university*, coworking space, bar/cafe...
 _The place must be equipped with sufficient power plugs and network connections (and chairs)_
 
-* Don't forget to ask for the authorization to host the hub and to invite external people.
-
 3. Promote your CodingHub using a Facebook or Meetup event.
 _Invite your friends and colleagues, or other CodinGamers_
 
 4. Arrange if possible for small catering
 _What you can do is to make arrangements with participants and share the price_
+
+* Don't forget to ask for the authorization to host the hub and to invite external people.
 
 ## Why using Meetup or Facebook?
 
