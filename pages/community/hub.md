@@ -17,11 +17,24 @@ To join a CodingHub, join the corresponding event or contact the host directly.
 
 # List of Next CodingHubs
 
+In green, you can see the CodinGamers interested in joining a CodingHub. In yellow, the planned CodingHubs for the next contest.
+
 <iframe src="https://www.google.com/maps/d/embed?mid=1XWOYtGjzzsovaq8TXWHXJTZl2tqf8K0A" width="640" height="480"></iframe>
 
-## Paris
+## Amiens 🇫🇷
 
-[egaetan at Meritis](https://www.facebook.com/events/2290872874519191/): May 21 at 7pm
+_ *Ael2029 at CGI France*: May 20 from 6 pm 30 to 10 pm
+Contact: yann.louarn@cgi.com
+
+## Paris 🇫🇷
+
+- *egaetan at Meritis*: May 22 at 7 pm
+[Facebook event](https://www.facebook.com/events/2290872874519191/)
+
+## Kaunas 🇱🇹
+
+- *Ramdeath at Kaunas Saules Gymasium*: 
+[Facebook group](https://www.facebook.com/groups/680108122421462/)
 
 
 # List of CodinGamer Groups
