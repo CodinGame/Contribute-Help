@@ -1,4 +1,4 @@
-# What is a CodingHub?
+## What is a CodingHub?
 
 A CodingHub is an event where developers meet, code and converse. Most of the times, they happen during a coding contest, so players can't discuss the game and share strategies.
 
@@ -7,56 +7,60 @@ CodingHubs are organized by volunteers, with the assistance of CodinGame. Want t
 Read more:
 [CodingHubs: Enjoy Coding for Fun with other Developers](https://www.codingame.com/blog/codinghubs-enjoy-coding-developers/)
 
-## Why join a CodingHub?
+### Why join a CodingHub?
 
 - To meet other developers who enjoy programming for fun
 - To have fun and learn
 - To network
 
-To join a CodingHub, join the corresponding event or contact the host directly.
+To join a CodingHub, join the corresponding event or contact the host directly. If you can't find a CodingHub near you, fill [this form](https://codingame.typeform.com/to/aIhWPc) to appear on the map below.
 
-# List of Next CodingHubs
+## List of Next CodingHubs
 
 In green, you can see the CodinGamers interested in joining a CodingHub. In yellow, the planned CodingHubs for the next contest.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1XWOYtGjzzsovaq8TXWHXJTZl2tqf8K0A" width="640" height="480"></iframe>
 
-## Amiens 🇫🇷
+### France 🇫🇷
 
-_ *Ael2029 at CGI France*: May 20 from 6 pm 30 to 10 pm
-Contact: yann.louarn@cgi.com
+- Amiens
 
-## Paris 🇫🇷
+	- *Ael2029 at CGI France*: May 20 from 6 pm 30 to 10 pm
+	Contact: yann.louarn@cgi.com
 
-- *egaetan at Meritis*: May 22 at 7 pm
-[Facebook event](https://www.facebook.com/events/2290872874519191/)
+- Paris
 
-## Kaunas 🇱🇹
+	- *egaetan at Meritis*: May 22 at 7 pm
+	[Facebook event](https://www.facebook.com/events/2290872874519191/)
 
-- *Ramdeath at Kaunas Saules Gymasium*: 
-[Facebook group](https://www.facebook.com/groups/680108122421462/)
+### Lithuania 🇱🇹
+
+- Kaunas
+	
+	- *Ramdeath at Kaunas Saules Gymasium*: 
+	[Facebook group](https://www.facebook.com/groups/680108122421462/)
 
 
-# List of CodinGamer Groups
+## List of CodinGamer Groups
 
 [CodingHub Facebook Group](https://www.facebook.com/groups/345333262492063/)
 
-## Paris 🇫🇷
+### Paris 🇫🇷
 [Programming is Fun](https://www.meetup.com/Programming-is-Fun/)
 
-## Chisinau 🇲🇩
+### Chisinau 🇲🇩
 
 [CodinGame Moldova](https://www.facebook.com/groups/1832627603638404/)
 
-## Lublin 🇵🇱
+### Lublin 🇵🇱
 
 [Lubelski CodingHub](https://www.facebook.com/lubelskicodinghub/)
 
-# <a name="host"></a>How to host a CodingHub?
+## <a name="host"></a>How to host a CodingHub?
 
 Just fill [this form](https://codingame.typeform.com/to/ihoVPP). Thibaud will contact you and add your CodingHub to the list above.
 
-## Guidelines
+### Guidelines
 
 1. Pick a date and time for your CodingHub
 _They are usually held in the evening after work and last 2 to 3 hours._
@@ -72,7 +76,7 @@ _What you can do is to make arrangements with participants and share the price_
 
 *Don't forget to ask for the authorization to host the hub and to invite external people.
 
-## Why using Meetup or Facebook?
+### Why using Meetup or Facebook?
 
 It allows you to manage registrations.
 
