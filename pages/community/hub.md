@@ -37,7 +37,7 @@ In green, you can see the CodinGamers interested in joining a CodingHub. In yell
 
 - Kaunas
 	
-	- *Ramdeath at Kaunas Saules Gymasium*: 
+	- *Ramdeath at Kaunas Saules Gymasium*: May 20 from 3 pm to 6 pm
 	[Facebook group](https://www.facebook.com/groups/680108122421462/)
 
 
@@ -83,4 +83,4 @@ It allows you to manage registrations.
 It also helps other developers to find out about your event.
 
 Finally, it allows us to assess how many goodies to send.
-_Pack of goodies will be sent to CodingHubs with at least 5 people registered to the hub 10 days before the start of the contest.
+_Pack of goodies will be sent to CodingHubs with at least 5 people registered to the hub 10 days before the start of the contest._
