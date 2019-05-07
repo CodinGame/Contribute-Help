@@ -21,16 +21,28 @@ In green, you can see the CodinGamers interested in joining a CodingHub. In yell
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1XWOYtGjzzsovaq8TXWHXJTZl2tqf8K0A" width="640" height="480"></iframe>
 
+### Belgium 🇧🇪
+
+- Antwerp
+
+	- *Spacebird1313 at iMagineLab*: May 22 from 6 pm to 11 pm
+	
+	[Facebook event](https://www.facebook.com/events/2263567717022435/)
+
 ### France 🇫🇷
 
 - Amiens
 
 	- *Ael2029 at CGI France*: May 20 from 6 pm 30 to 10 pm
+	
 	Contact: yann.louarn@cgi.com
 
 - Paris
 
 	- *egaetan at Meritis*: May 22 at 7 pm
+	
+	[Meetup event](https://www.meetup.com/Meetup-Meritis/events/261011163/)
+	
 	[Facebook event](https://www.facebook.com/events/2290872874519191/)
 
 ### Lithuania 🇱🇹
@@ -38,6 +50,7 @@ In green, you can see the CodinGamers interested in joining a CodingHub. In yell
 - Kaunas
 	
 	- *Ramdeath at Kaunas Saules Gymasium*: May 20 from 3 pm to 6 pm
+	
 	[Facebook group](https://www.facebook.com/groups/680108122421462/)
 
 
