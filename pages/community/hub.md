@@ -2,7 +2,9 @@
 
 A CodingHub is an event where developers meet, code and converse. Most of the times, they happen during a coding contest, so players can't discuss the game and share strategies.
 
-CodingHubs are organized by volunteers, with the assistance of CodinGame. Want to host one? [See below ⬇️](pages/community/hub.md#host)
+CodingHubs are organized by volunteers, with the assistance of CodinGame. 
+
+**Want to host one? [See below ⬇️](pages/community/hub.md#host)**
 
 Read more:
 [CodingHubs: Enjoy Coding for Fun with other Developers](https://www.codingame.com/blog/codinghubs-enjoy-coding-developers/)
