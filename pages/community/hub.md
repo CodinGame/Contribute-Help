@@ -23,7 +23,7 @@ In green, you can see the CodinGamers interested in joining a CodingHub. In yell
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1XWOYtGjzzsovaq8TXWHXJTZl2tqf8K0A" width="640" height="480"></iframe>
 
-### Belgium 🇧🇪
+### Belgium
 
 - Antwerp
 
@@ -31,7 +31,7 @@ In green, you can see the CodinGamers interested in joining a CodingHub. In yell
 	
 	[Facebook event](https://www.facebook.com/events/2263567717022435/)
 
-### France 🇫🇷
+### France
 
 - Amiens
 
@@ -53,7 +53,7 @@ In green, you can see the CodinGamers interested in joining a CodingHub. In yell
 	
 	Contact: sebastien.delmas@sgcib.com
 
-### Lithuania 🇱🇹
+### Lithuania
 
 - Kaunas
 	
@@ -66,14 +66,14 @@ In green, you can see the CodinGamers interested in joining a CodingHub. In yell
 
 [CodingHub Facebook Group](https://www.facebook.com/groups/345333262492063/)
 
-### Paris 🇫🇷
+### Paris
 [Programming is Fun](https://www.meetup.com/Programming-is-Fun/)
 
-### Chisinau 🇲🇩
+### Chisinau
 
 [CodinGame Moldova](https://www.facebook.com/groups/1832627603638404/)
 
-### Lublin 🇵🇱
+### Lublin
 
 [Lubelski CodingHub](https://www.facebook.com/lubelskicodinghub/)
 
