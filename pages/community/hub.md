@@ -46,12 +46,18 @@ In green, you can see the CodinGamers interested in joining a CodingHub. In yell
 	[Meetup event](https://www.meetup.com/Meetup-Meritis/events/261011163/)
 
 	[Facebook event](https://www.facebook.com/events/2290872874519191/)
-	
+
 - Fontenay-sous-Bois
 	
-	- **[SG]Bisou at Société Générale]**: May 24 from 6pm to 10 pm
+	- **[SG]Bisou at Société Générale**: May 24 from 6pm to 10 pm
 	
 	Contact: sebastien.delmas@sgcib.com
+
+- near Genève
+
+	- **bubi24 at his own place**: May 18 from 4 pm to 8 pm
+
+	[Facebook event](https://www.facebook.com/events/452639562138491/)
 
 ### Lithuania
 
