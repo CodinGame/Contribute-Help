@@ -69,7 +69,9 @@ In green, you can see the CodinGamers interested in joining a CodingHub. In yell
 
 ### Russia
 
-	- **KonamiCode at SKB Kontur in St Petersburg**: May 19th from 4:30 pm to 7:30 pm
+- St Petersburg
+
+	- **KonamiCode at SKB Kontur**: May 19th from 4:30 pm to 7:30 pm
 
     [event page](https://eventskbkontur.timepad.ru/event/980762/)
 
