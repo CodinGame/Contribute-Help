@@ -55,7 +55,7 @@ In green, you can see the CodinGamers interested in joining a CodingHub. In yell
 
 - near Genève
 
-	- **bubi24 at his own place**: May 18 from 4 pm to 8 pm
+	- **bubi24 at his own place**: May 19 from 4 pm to 8 pm
 
 	[Facebook event](https://www.facebook.com/events/452639562138491/)
 
