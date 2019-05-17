@@ -67,6 +67,12 @@ In green, you can see the CodinGamers interested in joining a CodingHub. In yell
 
 	[Facebook group](https://www.facebook.com/groups/680108122421462/)
 
+### Russia
+
+	- **KonamiCode at Kontur in St Petersburg**: May 19th from 4:30 pm to 7:30 pm
+
+    [event page](https://eventskbkontur.timepad.ru/event/980762/)
+
 
 ## List of CodinGamer Groups
 
