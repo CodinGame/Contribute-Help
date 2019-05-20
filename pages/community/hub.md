@@ -31,6 +31,12 @@ In green, you can see the CodinGamers interested in joining a CodingHub. In yell
 	
 	[Facebook event](https://www.facebook.com/events/2263567717022435/)
 
+### Czech Republic
+
+- Prague
+
+	- **J.K.T. at CS-Soft**: _Internal Event_
+	
 ### France
 
 - Amiens
