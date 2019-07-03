@@ -34,10 +34,6 @@ Participants play against themselves in matches of 2 to 4 players in an arena. N
 
 Optimization puzzles are puzzles for which a player's score is computed. All players are then ranked against this score.
 
-They must have a large number of test cases.
-
-It must be very difficult to approach the optimal optimization score.
-
 [Learn how to create an Optimization puzzle with the sdk](https://www.codingame.com/playgrounds/25775/codingame-sdk-documentation/create-a-multiplayer-game)
 
 **Optimization puzzles should also respect the [test cases guidelines](pages/technical/testcase.md#guidelines).**

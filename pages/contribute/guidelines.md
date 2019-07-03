@@ -1,4 +1,5 @@
-|  | Type of contributions |
+# General Guidelines
+
 |  | Clash of Code | In/Out Puzzle | Solo Puzzle | Optimization Puzzle | Multiplayer Game |
 | Statement | X | X | X | X | X |
 | Test Cases | X | X | X | X |  |
