@@ -24,7 +24,7 @@ where [name] is a valid variable name in **camelCase** and [type] is one of the 
 * `word(<length>)`
 * `string(<length>)`
 
-⚠️ A `string` can contain spaces, a `word` cannot. Therfore only one `string` may be used in the same sequence of variable declarations.
+⚠️ A `string` can contain spaces, a `word` cannot. Therefore, only one `string` may be used in the same sequence of variable declarations.
 
 A `read` will collect a single line of data from the standard input.
 
