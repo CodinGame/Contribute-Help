@@ -16,7 +16,7 @@ Like for In/Out puzzles, the player plays against the game and must pass all tes
 _Example: [Power of Thor](https://www.codingame.com/training/easy/power-of-thor-episode-1)
 Each turn, the player must output a direction for Thor to take to finally reach the light._
 
-**Gameloop puzzles should also respect the [test cases guidelines](pages/technical/testcase.md#guidelines).**
+**Solo puzzles should also respect the [test cases guidelines](pages/technical/testcase.md#guidelines).**
 
 [Learn how to create a Solo puzzle with the sdk](https://www.codingame.com/playgrounds/25775/codingame-sdk-documentation/create-a-solo-game)
 
@@ -34,17 +34,21 @@ Participants play against themselves in matches of 2 to 4 players in an arena. N
 
 Optimization puzzles are puzzles for which a player's score is computed. All players are then ranked against this score.
 
-They must have a large number of test cases. Learn more about it in the [test cases guidelines for optimization puzzles](pages/technical/testcase.md#guidelines-opti)
+They must have a large number of test cases.
+
+It must be very difficult to approach the optimal optimization score.
 
 [Learn how to create an Optimization puzzle with the sdk](https://www.codingame.com/playgrounds/25775/codingame-sdk-documentation/create-a-multiplayer-game)
+
+**Optimization puzzles should also respect the [test cases guidelines](pages/technical/testcase.md#guidelines).**
 
 # General Guidelines <a name="guidelines"/>
 
 When creating your coding game, we ask you to follow these guidelines in order to improve both its performance and players experience.
 
-- **Viewer**
-  - The viewer must be self-explanatory. _A player should understand most of the rules from a replay_
-  - The viewer must contain the avatars and nicknames of current players (if bot programming).
+- **Graphics**
+  - The graphics must be self-explanatory. _A player should understand most of the rules from a replay_
+  - The graphics must contain the avatars and nicknames of current players (if bot programming).
 - **Referee**
   - The referee must end a player's program when receiving an unrecognizable command.
   - The referee must send an error message in the console when receiving an invalid but recognized command.

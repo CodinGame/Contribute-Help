@@ -32,8 +32,10 @@ plan:
     statement: pages/technical/testcase.md
 - title: Contributing to CodinGame
   plan:
-  - title: Code of Conduct
+  - title: Rules of Engagement
     statement: pages/contribute/coc.md
+  - title: Contribution Guidelines
+    statement: pages/contribute/guidelines.md
   - title: Moderation
     statement: pages/contribute/moderation.md
   - title: Rewards

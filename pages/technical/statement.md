@@ -24,7 +24,7 @@ _For instance, **don’t say** “The unit hits the other unit on the nose, caus
 _For instance **don’t say** “This next part looks complicated but you’ll get it, don’t worry!”._
 - Avoid controversial topics like politics.
 
-# Puzzle Statement
+# <a name="puzzle-statement"></a> Puzzle Statement
 _(In/Out puzzle and CoC only)_
 
 ## Syntax
@@ -37,7 +37,7 @@ _(In/Out puzzle and CoC only)_
 
 ## Example
 
-Goal:
+```Goal:
 
 You must output the closest pair of points (euclidean distance).
 
@@ -60,7 +60,7 @@ Constraints:
 
 2 ≤ [[N]] ≤ 100
 
--1000 < [[x]],[[y]] < 1000
+-1000 < [[x]],[[y]] < 1000```
 
 # Game Statement
 _(For all sdk games)_
