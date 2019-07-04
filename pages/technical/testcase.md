@@ -5,7 +5,7 @@ A test case is composed of 2 tests:
 
 IDE tests are visible to the players whereas validators are hidden.
 
-## Guidelines <a name="guidelines"/>
+# Guidelines <a name="guidelines"/>
 
 - Test cases should cover all specifications
 - Test cases must have explicit names

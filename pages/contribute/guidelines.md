@@ -1,3 +1,5 @@
+It's highly recommended to publish a contribution as "WIP" first to get feedback from the community. => [More details about moderation](pages/contribute/moderation.md)
+
 # General Guidelines
 
 0. **Contributions must be written in English.**
@@ -11,7 +13,7 @@
 	- Avoid controversial topics
 	```
 
- 	=> [Statement guidelines](pages/technical/statement.md#guidelines)
+ 	=> [Writing the statement](pages/technical/statement.md#guidelines)
 
 2. **The default code must be working for all languages.**
 
@@ -27,7 +29,7 @@
 	- The first test case must be a simple one
 	```
 
-	=> [Test cases guidelines](pages/technical/testcase.md#guidelines)
+	=> [Defining test cases](pages/technical/testcase.md#guidelines)
 
 4. **Contributions must be original.** _(for all games but Clash of Code)_
 
@@ -41,7 +43,7 @@
 	- Indices must start at 0, not 1. The origin is always the top left pixel/tile.
 	```
 
-	=> [Referee Guidelines](pages/types/game.md#guidelines)
+	=> [Games guidelines and best practices](pages/types/game.md#guidelines)
 
 6. **The graphics are clear and represent the progression of the game well.** _(for all games created with the sdk)_
 
@@ -50,21 +52,21 @@
 
 ## Clash of Code
 
-7. CoC puzzles should be solvable in less than 5 minutes.
+7. **CoC puzzles should be solvable in less than 5 minutes.**
 
-_The main goal of a CoC battles is to be short (except in the "Shortest" mode). CoC players don't expect to learn something from solving a CoC puzzle; they'll choose practice puzzles for that._
+The main goal of a CoC battles is to be short (except in the "Shortest" mode). CoC players don't expect to learn something from solving a CoC puzzle; they'll choose practice puzzles for that.
 
-8. Close duplicates are allowed.
+8. **CoC close duplicates are allowed.**
 
-_If the puzzles' themes differ, it's ok to accept multiple versions of the same programming problem_
+If the puzzles' themes differ, it's ok to accept multiple versions of the same programming problem.
 
-9. No puzzle is too easy.
+9. **No CoC puzzle is too easy.**
 
-_No CoC puzzle should be rejected because it's too simple._
+No CoC puzzle should be rejected because it's too simple.
 
 
 ## Optimization Puzzles
 
-10. It must be very difficult to approach the optimal score.
+10. **It must be very difficult to approach the optimal score.**
 
 
