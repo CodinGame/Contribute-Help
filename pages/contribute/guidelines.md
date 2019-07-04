@@ -52,21 +52,21 @@ It's highly recommended to publish a contribution as "WIP" first to get feedback
 
 ## Clash of Code
 
-7. **CoC puzzles should be solvable in less than 5 minutes.**
+1. **CoC puzzles should be solvable in less than 5 minutes.**
 
 The main goal of a CoC battles is to be short (except in the "Shortest" mode). CoC players don't expect to learn something from solving a CoC puzzle; they'll choose practice puzzles for that.
 
-8. **CoC close duplicates are allowed.**
+2. **CoC close duplicates are allowed.**
 
 If the puzzles' themes differ, it's ok to accept multiple versions of the same programming problem.
 
-9. **No CoC puzzle is too easy.**
+3. **No CoC puzzle is too easy.**
 
 No CoC puzzle should be rejected because it's too simple.
 
 
 ## Optimization Puzzles
 
-10. **It must be very difficult to approach the optimal score.**
+1. **It must be very difficult to approach the optimal score.**
 
 

@@ -60,7 +60,8 @@ Constraints:
 
 2 ≤ [[N]] ≤ 100
 
--1000 < [[x]],[[y]] < 1000```
+-1000 < [[x]],[[y]] < 1000
+```
 
 # Game Statement
 _(For all sdk games)_
