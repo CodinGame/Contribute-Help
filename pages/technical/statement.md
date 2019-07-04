@@ -17,11 +17,17 @@ Adding a theme/story is non-mandatory.
 The statement must be clear and non-ambiguous.
 
 - Keep it clear and consise
+
 _A long statement can scare players away._
+
 - Avoid flavour text
+
 _For instance, **don’t say** “The unit hits the other unit on the nose, causing 1 point of excruciating damage”, do say “The unit deals 1 damage”._
+
 - Don't address the reader directly
+
 _For instance **don’t say** “This next part looks complicated but you’ll get it, don’t worry!”._
+
 - Avoid controversial topics like politics.
 
 # <a name="puzzle-statement"></a> Puzzle Statement

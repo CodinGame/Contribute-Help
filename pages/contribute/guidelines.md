@@ -1,4 +1,5 @@
-It's highly recommended to publish a contribution as "WIP" first to get feedback from the community. => [More details about moderation](pages/contribute/moderation.md)
+It's highly recommended to publish a contribution as "WIP" first to get feedback from the community. 
+=> [More details about moderation](pages/contribute/moderation.md)
 
 # General Guidelines
 
@@ -17,7 +18,7 @@ It's highly recommended to publish a contribution as "WIP" first to get feedback
 
 2. **The default code must be working for all languages.**
 
-	=> [Stub generator syntax](pages/technical/stub.md).
+	=> [Stub generator syntax](pages/technical/stub.md)
 
 3. **Test cases must be properly defined.** _(for all games but multiplayer games)_
 
@@ -54,15 +55,15 @@ It's highly recommended to publish a contribution as "WIP" first to get feedback
 
 1. **CoC puzzles should be solvable in less than 5 minutes.**
 
-The main goal of a CoC battles is to be short (except in the "Shortest" mode). CoC players don't expect to learn something from solving a CoC puzzle; they'll choose practice puzzles for that.
+	The main goal of a CoC battles is to be short (except in the "Shortest" mode). CoC players don't expect to learn something from solving a CoC puzzle; they'll choose practice puzzles for that.
 
 2. **CoC close duplicates are allowed.**
 
-If the puzzles' themes differ, it's ok to accept multiple versions of the same programming problem.
+	If the puzzles' themes differ, it's ok to accept multiple versions of the same programming problem.
 
 3. **No CoC puzzle is too easy.**
 
-No CoC puzzle should be rejected because it's too simple.
+	No CoC puzzle should be rejected because it's too simple.
 
 
 ## Optimization Puzzles
