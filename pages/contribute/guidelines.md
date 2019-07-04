@@ -1,69 +1,70 @@
 # General Guidelines
 
-- All types of games must have a clear and unambiguous description.
+0. **Contributions must be written in English.**
 
-  ```
-  - Keep it clear and consise
-  
-  - Avoid flavour text
+1. **The description must be clear and unambiguous.**
 
-  - Don't address the reader directly
+	```
+	- Keep it clear and consise
+	- Avoid flavour text
+	- Don't address the reader directly
+	- Avoid controversial topics
+	```
 
-  - Avoid controversial topics
-  ```
+ 	=> [Statement guidelines](pages/technical/statement.md#guidelines)
 
- Check out the [statement guidelines](pages/technical/statement.md#guidelines) for more details.
+2. **The default code must be working for all languages.**
 
-- All types of games must have a working default code for all languages. Check out the [stub generator syntax](pages/technical/stub.md).
+	=> [Stub generator syntax](pages/technical/stub.md).
 
-- Test cases must be properly defined.
+3. **Test cases must be properly defined.** _(for all games but multiplayer games)_
 
- ```
- - Test cases should cover all specifications
- - Test cases must have explicit names
- - Each validator must differ from the correspond test
- - Each validator should check the same case as the corresponding test
- - The first test case must be a simple one
- ```
- 
-Check out the [test cases guidelines](pages/technical/testcase.md#guidelines) for more details.
+	```
+	- Test cases should cover all specifications
+	- Test cases must have explicit names
+	- Each validator must differ from the correspond test
+	- Each validator should check the same case as the corresponding test
+	- The first test case must be a simple one
+	```
 
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|  | Clash of Code | In/Out Puzzle | Solo Puzzle | Optimization Puzzle | Multiplayer Game |
-| Statement | X | X | X | X | X |
-| Stub | X | X | X | X | X |
-| Test Cases | X | X | X | X |  |
-| Referee |  |  | X | X | X |
-| Originality |  | X | X | X | X |
+	=> [Test cases guidelines](pages/technical/testcase.md#guidelines)
 
+4. **Contributions must be original.** _(for all games but Clash of Code)_
 
-[Referee Guidelines](pages/types/game.md#guidelines)
+5. **The referee program should be robust and reliable.** _(for all games created with the sdk)_
+
+	```
+	- The referee must end a player's program when receiving an unrecognizable command.
+	- The referee must send an error message in the console when receiving an invalid but recognized command.
+	- The referee must stop the game early if the game is stale or already decided.
+	- The referee must not crash. All exceptions must be caught.
+	- Indices must start at 0, not 1. The origin is always the top left pixel/tile.
+	```
+
+	=> [Referee Guidelines](pages/types/game.md#guidelines)
+
+6. **The graphics are clear and represent the progression of the game well.** _(for all games created with the sdk)_
+
 
 # Specific Guidelines
 
 ## Clash of Code
 
-- CoC puzzles should be solvable in less than 5 minutes.
+7. CoC puzzles should be solvable in less than 5 minutes.
 
 _The main goal of a CoC battles is to be short (except in the "Shortest" mode). CoC players don't expect to learn something from solving a CoC puzzle; they'll choose practice puzzles for that._
 
-- Close duplicates are allowed.
+8. Close duplicates are allowed.
 
 _If the puzzles' themes differ, it's ok to accept multiple versions of the same programming problem_
 
-- No puzzle is too easy.
+9. No puzzle is too easy.
 
 _No CoC puzzle should be rejected because it's too simple._
 
 
 ## Optimization Puzzles
 
-- It must be very difficult to approach the optimal score.
-
-## Multiplayer Games
-
-- It's possible to write a working AI in a few minutes.
-
-- If several leagues exist: boss difficulty is low but requires knowledge of each new set of rules per league.
+10. It must be very difficult to approach the optimal score.
 
 

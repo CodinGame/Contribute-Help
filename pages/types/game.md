@@ -70,6 +70,8 @@ When creating your coding game, we suggest you follow these best practices in or
   - The total entities should not exceed 200.
   - The maximum number of rounds should not exceed 250.
   - The maximum alloted time per player should not exceed 25 seconds.
+  - It's possible to write a working AI in a few minutes.
+  - If several leagues exist: boss difficulty is low but requires knowledge of each new set of rules per league.
 - **Graphics**
   - Privilege the use of Sprites over Shapes (Rectangle, Circle, etc.)
   - Less than 2Mb in total should be used.
