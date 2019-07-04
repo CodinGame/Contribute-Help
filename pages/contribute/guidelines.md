@@ -1,18 +1,34 @@
 # General Guidelines
 
-- All types of games must have a clear and unambiguous description. Check out the [statement guidelines](pages/technical/statement.md#guidelines).
+- All types of games must have a clear and unambiguous description.
 
-```Keep it clear and consise
+```- Keep it clear and consise
 
 - Avoid flavour text
 
 - Don't address the reader directly
 
-- Avoid controversial topics```
+- Avoid controversial topics
+```
+
+> - Keep it clear and consise
+> - Avoid flavour text
+> - Don't address the reader directly
+> - Avoid controversial topics
+
+ Check out the [statement guidelines](pages/technical/statement.md#guidelines) for more details.
 
 - All types of games must have a working default code for all languages. Check out the [stub generator syntax](pages/technical/stub.md).
 
-- Test cases 
+- Test cases must be properly defined.
+
+> - Test cases should cover all specifications
+> - Test cases must have explicit names
+> - Each validator must differ from the correspond test
+> - Each validator should check the same case as the corresponding test
+> - The first test case must be a simple one
+
+Check out the [test cases guidelines](pages/technical/testcase.md#guidelines) for more details.
 
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |  | Clash of Code | In/Out Puzzle | Solo Puzzle | Optimization Puzzle | Multiplayer Game |
@@ -22,8 +38,6 @@
 | Referee |  |  | X | X | X |
 | Originality |  | X | X | X | X |
 
-
-[Test Cases Guidelines](pages/technical/testcase.md#guidelines)
 
 [Referee Guidelines](pages/types/game.md#guidelines)
 
