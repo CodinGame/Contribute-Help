@@ -19,7 +19,7 @@ _It helps players to understand the purpose of the test._
 
 _They work by pairs._
 
-- Each validator must differ from the correspond test
+- Each validator must differ from the corresponding test
 
 _It's only to ensure that the players don't harcode the solution._
 

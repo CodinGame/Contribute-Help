@@ -25,7 +25,7 @@ It's highly recommended to publish a contribution as "WIP" first to get feedback
 	```
 	- Test cases should cover all specifications
 	- Test cases must have explicit names
-	- Each validator must differ from the correspond test
+	- Each validator must differ from the corresponding test
 	- Each validator should check the same case as the corresponding test
 	- The first test case must be a simple one
 	```

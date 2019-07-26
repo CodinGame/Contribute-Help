@@ -19,6 +19,8 @@ To join a CodingHub, join the corresponding event or contact the host directly. 
 
 ## List of Next CodingHubs
 
+_Next hubs haven't be announced yet._
+
 In green, you can see the CodinGamers interested in joining a CodingHub. In yellow, the planned CodingHubs for the next contest.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1XWOYtGjzzsovaq8TXWHXJTZl2tqf8K0A" width="640" height="480"></iframe>
@@ -36,7 +38,7 @@ In green, you can see the CodinGamers interested in joining a CodingHub. In yell
 - Prague
 
 	- **J.K.T. at CS-Soft**: _Internal Event_
-	
+
 ### France
 
 - Amiens
