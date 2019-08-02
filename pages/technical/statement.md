@@ -6,9 +6,9 @@ It should contain:
 2. A list of rules to explain how the puzzle/game works
 3. The Victory/Lose conditions (for games created with the SDK only).
 4. The protocol
-	- the Input description
-	- the Output description
-	- a list of constraints
+	- input parameters and their types
+	- expected output
+	- reasonable constraints
 
 Adding a theme/story is non-mandatory.
 
@@ -29,6 +29,10 @@ _For instance, **don’t say** “The unit hits the other unit on the nose, caus
 _For instance **don’t say** “This next part looks complicated but you’ll get it, don’t worry!”._
 
 - Avoid controversial topics like politics.
+
+- Don't overlook the protocol
+
+_It must be clear, precise, with reasonnable constraints..._
 
 # <a name="puzzle-statement"></a> Puzzle Statement
 _(In/Out puzzle and CoC only)_

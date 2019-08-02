@@ -12,6 +12,7 @@ It's highly recommended to publish a contribution as "WIP" first to get feedback
 	- Avoid flavour text
 	- Don't address the reader directly
 	- Avoid controversial topics
+	_ Don't overlook the protocol
 	```
 
  	=> [Writing the statement](pages/technical/statement.md#guidelines)
