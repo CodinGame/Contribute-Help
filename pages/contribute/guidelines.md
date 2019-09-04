@@ -1,11 +1,15 @@
 It's highly recommended to publish a contribution as "WIP" first to get feedback from the community. 
 => [More details about moderation](pages/contribute/moderation.md)
 
+**The following guidelines are what they are: guidelines. Please keep the experience of players in mind when creating/moderating contributions.**
+
+_Disagree with the current guidelines? Let us know in the [forum](https://www.codingame.com/forum/t/contribution-guidelines/112629)_
+
 # General Guidelines
 
 0. **Contributions must be written in English.**
 
-1. **The description must be clear and unambiguous.**
+1. **The description must be clear and unambiguous.** _(for all games but reverse CoC)_
 
 	```
 	- Keep it clear and consise
@@ -25,7 +29,7 @@ It's highly recommended to publish a contribution as "WIP" first to get feedback
 
 	```
 	- Test cases should cover all specifications
-	- Test cases must have explicit names
+	- Test cases must have explicit names _(for all tests but CoC validators)_
 	- Each validator must differ from the corresponding test
 	- Each validator should check the same case as the corresponding test
 	- The first test case must be a simple one
@@ -56,15 +60,15 @@ It's highly recommended to publish a contribution as "WIP" first to get feedback
 
 1. **CoC puzzles should be solvable in less than 5 minutes.**
 
-	The main goal of a CoC battles is to be short (except in the "Shortest" mode). CoC players don't expect to learn something from solving a CoC puzzle; they'll choose practice puzzles for that.
+	The main goal of a CoC battles is to be short (except in the "Shortest" mode). CoC players are looking for quick simple puzzles to solve; for more complex problems, they'll dive into the classic puzzles section.
 
 2. **CoC close duplicates are allowed.**
 
-	If the puzzles' themes differ, it's ok to accept multiple versions of the same programming problem.
+	If the puzzles' themes differ, it's ok to accept multiple versions of the same programming problem. _to a maximum of 5 duplicates_
 
 3. **No CoC puzzle is too easy.**
 
-	No CoC puzzle should be rejected because it's too simple.
+	No CoC puzzle should be rejected because it's too simple. _to the limit of overly-simple puzzles which can feel unrewarding/unenjoyable_
 
 
 ## Optimization Puzzles
