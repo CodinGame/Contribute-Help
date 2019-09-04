@@ -29,7 +29,7 @@ _Disagree with the current guidelines? Let us know in the [forum](https://www.co
 
 	```
 	- Test cases should cover all specifications
-	- Test cases must have explicit names _(for all tests but CoC validators)_
+	- Test cases must have explicit names (for all tests but CoC validators)
 	- Each validator must differ from the corresponding test
 	- Each validator should check the same case as the corresponding test
 	- The first test case must be a simple one
@@ -64,11 +64,11 @@ _Disagree with the current guidelines? Let us know in the [forum](https://www.co
 
 2. **CoC close duplicates are allowed.**
 
-	If the puzzles' themes differ, it's ok to accept multiple versions of the same programming problem. _to a maximum of 5 duplicates_
+	If the puzzles' themes differ, it's ok to accept multiple versions of the same programming problem. _(to a maximum of 5 duplicates)_
 
 3. **No CoC puzzle is too easy.**
 
-	No CoC puzzle should be rejected because it's too simple. _to the limit of overly-simple puzzles which can feel unrewarding/unenjoyable_
+	No CoC puzzle should be rejected because it's too simple. _(to the limit of overly-simple puzzles which can feel unrewarding/unenjoyable)_
 
 
 ## Optimization Puzzles
