@@ -21,7 +21,7 @@ _They work by pairs._
 
 - Each validator must differ from the corresponding test
 
-_It's only to ensure that the players don't harcode the solution._
+_It's only to ensure that the players don't hardcode the solution._
 
 - The first test case must be a simple one
 
