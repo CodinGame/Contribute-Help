@@ -29,7 +29,6 @@ _Disagree with the current guidelines? Let us know in the [forum](https://www.co
 
 	```
 	- Test cases should cover all specifications
-	- Test cases must have explicit names (for all tests but CoC validators)
 	- Each validator must differ from the corresponding test
 	- Each validator should check the same case as the corresponding test
 	- The first test case must be a simple one
