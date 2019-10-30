@@ -13,7 +13,7 @@ _The more tests, the better._
 
 - Each validator must* differ from the corresponding test
 
-_It's only to ensure that the players don't harcode the solution.
+_It's only to ensure that the players don't hardcode the solution.
 * Sometimes, to cover edge cases, there is no other way than having the same test as validator_
 
 - Each validator should check the same case as the corresponding test
