@@ -23,8 +23,11 @@ where [name] is a valid variable name in **camelCase** and [type] is one of the 
 * `long`
 * `word(<length>)`
 * `string(<length>)`
+* `boolean`
 
 ⚠️ A `string` can contain spaces, a `word` cannot. Therefore, only one `string` may be used in the same sequence of variable declarations.
+
+⚠️ For some languages, `boolean` will just create an `int` with values equal to 0 or 1.
 
 A `read` will collect a single line of data from the standard input.
 
