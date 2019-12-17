@@ -57,17 +57,15 @@ _Disagree with the current guidelines? Let us know in the [forum](https://www.co
 
 ## Clash of Code
 
-1. **CoC puzzles should be solvable in less than 5 minutes.**
+The main goal of a CoC battles is to be short (except in the "Shortest" mode). CoC players are looking for quick simple puzzles to solve; for more complex problems, they'll dive into the classic puzzles section.
 
-	The main goal of a CoC battles is to be short (except in the "Shortest" mode). CoC players are looking for quick simple puzzles to solve; for more complex problems, they'll dive into the classic puzzles section.
+1. **No CoC puzzle is too easy.**
 
-2. **CoC close duplicates are allowed.**
+	No CoC puzzle should be rejected with the justification that it's too simple.
 
-	If the puzzles' themes differ, it's ok to accept multiple versions of the same programming problem. _(to a maximum of 5 duplicates)_
+1. **CoC close duplicates are not forbidden.**
 
-3. **No CoC puzzle is too easy.**
-
-	No CoC puzzle should be rejected because it's too simple. _(to the limit of overly-simple puzzles which can feel unrewarding/unenjoyable)_
+	Moderators should reach an agreement on whether duplicate versions of a puzzle can be accepted or not.
 
 
 ## Optimization Puzzles
