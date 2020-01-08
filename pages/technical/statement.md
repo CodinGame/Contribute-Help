@@ -32,7 +32,7 @@ _For instance **don’t say** “This next part looks complicated but you’ll g
 
 - Don't overlook the protocol
 
-_It must be clear, precise, with reasonnable constraints..._
+_It must be clear, precise, with reasonable constraints..._
 
 # <a name="puzzle-statement"></a> Puzzle Statement
 _(In/Out puzzle and CoC only)_
