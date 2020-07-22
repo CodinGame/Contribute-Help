@@ -10,6 +10,7 @@ Messages between members of CodinGame happen on different places:
 
 ## Moderation team
 
+- AntiSquid
 - astrobytes
 - Bob
 - dbdr
