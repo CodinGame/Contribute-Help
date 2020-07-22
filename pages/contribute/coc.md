@@ -9,3 +9,5 @@
 
 - No abusive or harassing behavior.
 ```
+
+Any player not respecting this code of conduct will be banned from our chats and may see their account deleted.
