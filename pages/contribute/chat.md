@@ -37,10 +37,10 @@ Most CodinGame staff members have moderation rights too. Their username starts w
 
 ## Chat Moderation Guidelines (for moderators)
 
-- *Engage in Good Faith*: don't assume the worst from users and try to understand first the reason for an abusive behavior
-- *Lead by Example*: show everyone what's expected from them - great attitude and kindliness
-- *Trust the Team*: in doubt, ask other moderators or staff members for their opinion on the matter
-- *Warning, Kick, Ban*: notify the abuser with a _public_ warning first, then kick if necessary, then ban if necessary
+- **Engage in Good Faith**: don't assume the worst from users and try to understand first the reason for an abusive behavior
+- **Lead by Example**: show everyone what's expected from them - great attitude and kindliness
+- **Trust the Team**: in doubt, ask other moderators or staff members for their opinion on the matter
+- **Warning, Kick, Ban**: notify the abuser with a _public_ warning first, then kick if necessary, then ban if necessary
 
 [Discord moderators channel](https://discord.gg/ytxmYWd)
 
