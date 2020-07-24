@@ -11,7 +11,7 @@ Messages between members of CodinGame happen on different places:
 ## Moderation team
 
 - AntiSquid
-- astrobytes
+- Astrobytes
 - Bob
 - dbdr
 - eulerscheZahl
@@ -24,6 +24,7 @@ Messages between members of CodinGame happen on different places:
 - robostac
 - struct
 - SeebOmega
+- ThomasNicoullaud
 - Tiramon
 - Uljahn
 - WINWINWIN
