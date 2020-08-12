@@ -65,7 +65,7 @@ The main goal of a CoC battle is to be short (except in the "Shortest" mode). Co
 
 1. **CoC close duplicates are not forbidden.**
 
-	Moderators should reach an agreement on whether duplicate versions of a puzzle can be accepted or not.
+	Moderators should reach an agreement on whether duplicate versions of a puzzle can be accepted or not. Copy-pasting an existing CoC puzzle is obviously not allowed.
 
 
 ## Optimization Puzzles
