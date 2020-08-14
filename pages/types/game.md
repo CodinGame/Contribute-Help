@@ -1,6 +1,6 @@
-Coding games are turn-based games; they're always associated with a viewer. They're built with the CodinGame Game Engine (sdk)., see the technical details in the [sdk documentation](https://www.codingame.com/playgrounds/25775/codingame-sdk-documentation).
+Coding games are turn-based games; they're always associated with a viewer. They're built with the CodinGame Game Engine (sdk). See the technical details in the [sdk documentation](https://www.codingame.com/playgrounds/25775/codingame-sdk-documentation).
 
-In an "infinite" loop, the player(s) must read the entries in the standard input stream and send a response in the Standard Output stream to play the game.
+In an "infinite" loop, the player(s) must read the entries from the standard input stream and send a response to the Standard Output stream to play the game.
 
 There are three types of coding games.
 
@@ -24,7 +24,7 @@ Each turn, the player must output a direction for Thor to take to finally reach 
 
 Participants play against themselves in matches of 2 to 4 players in an arena. No more test cases. Once players submit their code (AI) in the arena, the system matches them against other players of the arena. Each match between players impacts their score, hence their ranking.
 
-In each league but the last (Legend), there is a reference bot: the boss. Any player who ends up above the boss' score after their ranking battles are finished will be promoted in the league above.
+In each league but the last (Legend), there is a reference bot: the boss. Any player who ends up above the boss' score after their ranking battles are finished will be promoted to the league above.
 
 [Learn how to create a Bot Programming game with the sdk](https://www.codingame.com/playgrounds/25775/codingame-sdk-documentation/create-a-multiplayer-game)
 
@@ -62,7 +62,7 @@ When creating your coding game, we suggest you follow these best practices in or
   - The stub should not change between leagues.
   - The generated stub should not contain more than 45 lines in Java.
   - The number of variables per loop should not exceed 10.
-  - There should be maximum 2 loops.
+  - There should be a maximum of 2 loops.
 - **Gameplay**
   - The game should be turn-based. Only perform checks (collision, presence, etc.) at the end of a turn.
   - The total entities should not exceed 200.

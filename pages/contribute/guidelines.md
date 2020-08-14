@@ -16,7 +16,7 @@ _Disagree with the current guidelines? Let us know in the [forum](https://www.co
 	- Avoid flavour text
 	- Don't address the reader directly
 	- Avoid controversial topics
-	_ Don't overlook the protocol
+	- Don't overlook the protocol
 	```
 
  	=> [Writing the statement](pages/technical/statement.md#guidelines)
