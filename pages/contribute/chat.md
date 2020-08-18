@@ -26,6 +26,7 @@ Messages between members of CodinGame happen on different places:
 - SeebOmega
 - ThomasNicoullaud
 - Tiramon
+- Tutubalin (#ru only)
 - Uljahn
 - WINWINWIN
 
