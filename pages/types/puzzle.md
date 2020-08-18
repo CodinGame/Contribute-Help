@@ -2,11 +2,11 @@ In/Out Puzzles are created via a simple form on the CodinGame site. It's the mos
 
 # Classic In/Out Puzzles
 
-A player must return a response in the Standard Output stream computed from information read in the Standard Input stream. To validate the puzzle, the player must pass all test cases.
+A player must return a response to the Standard Output stream computed from information read from the Standard Input stream. To validate the puzzle, the player must pass all test cases.
 
 An In/Out puzzle contains a statement, a stub, and test cases.
 
-You can find find more details about these in the Technical Details section:
+You can find more details about these in the Technical Details section:
 
 - [Writing a Statement](pages/technical/statement.md#puzzle-statement)
 - [Stub Generator Syntax](pages/technical/stub.md)
@@ -24,17 +24,16 @@ Tags examples: _Conditions, Graphs, Loops..._
 
 # Clash of Code <a name="clash"/>
 
-Clash of Code puzzles are simple In/Out puzzles specially created for short multiplayer battles. They're aimed to be solved in less than 15 minutes. 
+Clash of Code puzzles are simple In/Out puzzles specially created for short multiplayer battles. They're aimed to be solvable in less than 15 minutes. 
 
 A Clash of Code puzzle must have at least 1 puzzle mode:
 
 - **Fastest**: the most classic mode; the first player who passes all test cases wins.
-- **Shortest**: also known as "code golf"; the first player who passes all test cases with the least number of character wins.
-- **Reverse**: same as fastest but the players should guess what to do (the statement is hidden, only tests are shown); the first player who guesses what to do and passes all test cases wins.
-_No need to write a statement for a reverse-only CoC then_
+- **Shortest**: also known as "code golf"; the first player who passes all test cases with the least number of characters wins.
+- **Reverse**: same as fastest but the players need to guess what to do (the statement is hidden, only tests are shown); the first player who guesses what to do and passes all test cases wins.
+_No need to write a statement for a reverse-only CoC_
 
 There are no tags nor difficulty associated with a Clash of Code puzzle.
-
 
 
 

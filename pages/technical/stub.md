@@ -39,7 +39,7 @@ A `write` will print `<text>` onto the standard output. `<text>` can be a functi
 
 # Comments Syntax
 
-You may assign comments to any of the input variable by adding an **input block** one line away from the previous block.
+You may assign comments to any of the input variables by adding an **input block** one line away from the previous block.
 ```
 read row:int col:int
 write action

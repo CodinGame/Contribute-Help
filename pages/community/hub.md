@@ -19,7 +19,7 @@ To join a CodingHub, join the corresponding event or contact the host directly. 
 
 ## List of Next CodingHubs
 
-_Next hubs haven't be announced yet._
+_Next hubs haven't been announced yet._
 
 In green, you can see the CodinGamers interested in joining a CodingHub. In yellow, the planned CodingHubs for the next contest.
 
@@ -115,11 +115,11 @@ _The place must be equipped with sufficient power plugs and network connections 
 _Invite your friends and colleagues, or other CodinGamers_
 
 4. Arrange if possible for small catering
-_What you can do is to make arrangements with participants and share the price_
+_What you can do is make arrangements with participants and share the price_
 
-*Don't forget to ask for the authorization to host the hub and to invite external people.
+*Don't forget to ask for the authorization to host the hub and to invite outsiders.
 
-### Why using Meetup or Facebook?
+### Why use Meetup or Facebook?
 
 It allows you to manage registrations.
 

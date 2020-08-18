@@ -1,10 +1,10 @@
-The statement should be written **in English**. Make it as **clear and consise** as possible.
+The statement should be written **in English**. Make it as **clear and concise** as possible.
 
 It should contain:
 
 1. A quick description of the goal: 1 or 2 sentences maximum.
-2. A list of rules to explain how the puzzle/game works
-3. The Victory/Lose conditions (for games created with the SDK only).
+2. A list of rules to explain how the puzzle/game works.
+3. The Winning/Losing conditions (for games created with the SDK only).
 4. The protocol
 	- input parameters and their types
 	- expected output
@@ -16,7 +16,7 @@ Adding a theme/story is non-mandatory.
 
 The statement must be clear and non-ambiguous.
 
-- Keep it clear and consise
+- Keep it clear and concise
 
 _A long statement can scare players away._
 
@@ -80,11 +80,11 @@ For all games created with the sdk, the statement is an html document. You can f
 
 ## Leagues
 
-There is one statement file per leagues. They're all generated from one general statement file (located here: /config/statement_en.html.tpl) when building the project.
+There is one statement file per league. They're all generated from one general statement file (located here: /config/statement_en.html.tpl) when building the project.
 
 ## Conditional logic
 
-To show a piece of statement only in the league _x_, write
+To show a piece of statement only in league _x_, write
 
 ```html
 <!-- BEGIN levelx -->

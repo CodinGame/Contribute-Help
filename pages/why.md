@@ -11,7 +11,7 @@ On top of the embedded discussions tab for each contribution, the official tool 
 
 # Types of contributions
 
-Here is a list of all things you can create to contribute to CodinGame.
+Here is a list of all the things you can create to contribute to CodinGame.
 
 1. [In/Out Puzzles](pages/types/puzzle.md)
 _(created via a form on CodinGame)_
