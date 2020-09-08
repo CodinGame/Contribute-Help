@@ -13,7 +13,7 @@ Anyone can write an article and have it published (with Thibaud's help).
 
 ## Main Topics
 
-- [Programming is Fun](https://www.codingame.com/blog/category/all-articles/programming-is-fun/): This is CodinGame's motto. Gamification is at the heard of the platform and is part of its DNA.
+- [Programming is Fun](https://www.codingame.com/blog/category/all-articles/programming-is-fun/): This is CodinGame's motto. Gamification is at the heart of the platform and is part of its DNA.
 _Topic examples: gamification, coding competitions, coding games..._
 - [The Programming Community](https://www.codingame.com/blog/category/all-articles/programming-community/): All developers belong to the programming community. It has a lot to offer and give. Learn new things from others, have fun programming and welcome new people into the fantastic world of programming. The more, the stronger and the merrier. 
 _Topic Examples: Open Source, CodingHubs, community creations..._
