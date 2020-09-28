@@ -12,6 +12,7 @@ Messages between members of CodinGame happen on different places:
 
 - AntiSquid
 - Astrobytes
+- BlaiseEbuth
 - Bob
 - dbdr
 - eulerscheZahl
