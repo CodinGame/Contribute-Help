@@ -6,7 +6,7 @@ Messages between members of CodinGame happen on different places:
 - our contribute section
 - all the solutions
 
- Community moderators ensure community members respect the [Code of Conduct](/pages/contribute/coc.md) should be respected in all these places.
+ Community moderators ensure community members respect the [Code of Conduct](/pages/contribute/coc.md) in all these places.
 
 ## Moderation team
 
