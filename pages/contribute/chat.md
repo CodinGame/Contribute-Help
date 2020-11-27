@@ -29,7 +29,6 @@ Messages between members of CodinGame happen on different places:
 - Tiramon
 - Tutubalin (#ru only)
 - Uljahn
-- WINWINWIN
 
 Feel free to contact any moderator should you have an issue with another community member.
 
