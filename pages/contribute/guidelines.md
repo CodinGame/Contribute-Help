@@ -61,11 +61,19 @@ The main goal of a CoC battle is to be short (except in the "Shortest" mode). Co
 
 1. **No CoC puzzle is too easy.**
 
-	No CoC puzzle should be rejected with the justification that it's too simple.
+	In theory, no CoC puzzle should be rejected with the justification that it's too simple. However, moderators should reach an agreement on whether a trivial CoC contribution is worth being added to the pool of CoCs.
 
-1. **CoC close duplicates are not forbidden.**
+2. **CoC close duplicates are not forbidden.**
 
 	Moderators should reach an agreement on whether duplicate versions of a puzzle can be accepted or not. Copy-pasting an existing CoC puzzle is obviously not allowed.
+
+3. **CoC statements should be self-sufficient.** (doesn't apply to reverse puzzles obviously)
+
+	When your time is counted, as a player, you don't want to waste time searching for a formula or a definition online to understand what needs to be done.
+
+4. **Binary or language-specific outputs should be avoided in CoC.**
+
+	Some output formats favor specific languages and make the contribution unbalanced. Binary outputs open the door to "cheating" solutions to get around 50%.
 
 
 ## Optimization Puzzles
