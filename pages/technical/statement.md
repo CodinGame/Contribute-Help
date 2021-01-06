@@ -73,6 +73,8 @@ Constraints:
 -1000 < [[x]],[[y]] < 1000
 ```
 
+The statement is limited to 5k characters.
+
 # Game Statement
 _(For all sdk games)_
 
