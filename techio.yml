@@ -1,9 +1,69 @@
-title: Contribute - Help
+title: Help Center
 plan:
-- title: Introduction
+- title: Find the Answers to your Questions
   plan:
-  - title: Why Contribute?
-    statement: pages/why.md
+  - title: Categories
+    statement: pages/help/categories.md
+  - title: Getting Started
+    statement: pages/help/getting-started.md
+  - title: Puzzles & Games
+    statement: pages/help/puzzles.md
+  - title: Community Life
+    statement: pages/help/community.md
+  - title: Competition
+    statement: pages/help/compete.md
+  - title: Contribute to CodinGame
+    statement: pages/help/contribute.md
+- title: Getting Started
+  plan:
+  - title: Basics
+    plan:
+    - title: I'm new to CodinGame
+    statement: pages/basics/mission.md
+    - title: How does it work?
+    statement: pages/basics/code.md
+    - title: How do I solve puzzles?
+    statement: pages/basics/puzzles.md
+    - title: Asking for help
+    statement: pages/basics/help.md
+  - title: Guides
+    plan:
+    - title: My First Bot Programming Game
+    statement: pages/guides/bot-programming.md
+- title: Puzzles
+  plan:
+  - title: Easy Puzzles
+    plan:
+    - title: The Descent
+    statement: pages/easy-puzzles/descent.md
+    - title: Temperatures
+    statement: pages/easy-puzzles/temperatures.md
+  - title: Bot Programming
+    plan:
+    - title: Coders Strike Back
+    statement: pages/bot-programming/csb.md
+- title: Community Life
+  plan:
+  - title: Spaces of Discussions
+    plan:
+    - title: Discord
+    statement: pages/community/discord.md
+    - title: Integrated Chat
+    statement: pages/community/chat.md
+    - title: Forum
+    statement: pages/community/forum.md
+  - title: Ensuring a Safe Space
+    plan:
+    - title: Code of Conduct
+    statement: pages/community/coc.md
+    - title: Moderation
+    statement: pages/community/moderation.md
+    - title: Report an Abuse
+    statement: pages/community/abuse.md
+#- title: Introduction
+#  plan:
+#  - title: Why Contribute?
+#    statement: pages/why.md
 - title: Types of Contributions
   statement: pages/types/types.md
   plan:
