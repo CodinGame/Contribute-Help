@@ -5,6 +5,7 @@ plan:
   - title: Why Contribute?
     statement: pages/why.md
 - title: Types of Contributions
+  statement: pages/types/types.md
   plan:
   - title: "In/Out Puzzles"
     statement: pages/types/puzzle.md
