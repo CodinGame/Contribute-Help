@@ -7,7 +7,7 @@ plan:
     statement: pages/help/categories.md
   - title: Getting Started on CodinGame
     statement: pages/help/getting-started.md
-  - title: Puzzles & Games
+  - title: Puzzles and Games
     statement: pages/help/puzzles.md
   - title: Community Life
     statement: pages/help/community.md
@@ -16,52 +16,52 @@ plan:
   - title: Contribute to CodinGame
     statement: pages/help/contribute.md
 - title: Getting Started - Basics
-  description: New to CodinGame and kind of lost? Don't worry, it's normal
+  description: New to CodinGame and kind of lost? Don't worry!
   plan:
   - title: I'm new to CodinGame
-  statement: pages/basics/mission.md
+    statement: pages/basics/mission.md
   - title: How does it work?
-  statement: pages/basics/code.md
+    statement: pages/basics/code.md
   - title: How do I solve puzzles?
-  statement: pages/basics/puzzles.md
+    statement: pages/basics/puzzles.md
   - title: Getting help
-  statement: pages/basics/help.md
+    statement: pages/basics/help.md
 - title: Getting Started - Guides
   plan:
   - title: My First Bot Programming Game
-  statement: pages/guides/bot-programming.md
+    statement: pages/guides/bot-programming.md
 - title: Puzzles - Easy
   plan:
   - title: The Descent
-  statement: pages/easy-puzzles/descent.md
+    statement: pages/easy-puzzles/descent.md
   - title: Temperatures
-  statement: pages/easy-puzzles/temperatures.md
+    statement: pages/easy-puzzles/temperatures.md
 - title: Puzzles - Bot Programming
   plan:
   - title: Coders Strike Back
-  statement: pages/bot-programming/csb.md
+    statement: pages/bot-programming/csb.md
 - title: Community - Discussion Spaces
   plan:
   - title: Discord
-  statement: pages/community/discord.md
+    statement: pages/community/discord.md
   - title: Integrated Chat
-  statement: pages/community/chat.md
+    statement: pages/community/chat.md
   - title: Forum
-  statement: pages/community/forum.md
+    statement: pages/community/forum.md
 - title: Community - Ensuring a Safe Space
   plan:
   - title: Code of Conduct
-  statement: pages/community/coc.md
+    statement: pages/community/coc.md
   - title: Moderation
-  statement: pages/community/moderation.md
+    statement: pages/community/moderation.md
   - title: Report an Abuse
-  statement: pages/community/abuse.md
+    statement: pages/community/abuse.md
 #- title: Introduction
 #  plan:
 #  - title: Why Contribute?
 #    statement: pages/why.md
 - title: Types of Contributions
-  statement: pages/types/types.md
+    #statement: pages/types/types.md
   plan:
   - title: "In/Out Puzzles"
     statement: pages/types/puzzle.md
