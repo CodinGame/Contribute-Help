@@ -1,10 +1,10 @@
 title: Help Center
 plan:
-- title: Find the Answers to your Questions
+- title: Frequently Asked Questions
   plan:
-  - title: Categories
+  - title: Main Categories
     statement: pages/help/categories.md
-  - title: Getting Started
+  - title: Getting Started on CodinGame
     statement: pages/help/getting-started.md
   - title: Puzzles & Games
     statement: pages/help/puzzles.md
@@ -24,7 +24,7 @@ plan:
     statement: pages/basics/code.md
     - title: How do I solve puzzles?
     statement: pages/basics/puzzles.md
-    - title: Asking for help
+    - title: Getting help
     statement: pages/basics/help.md
   - title: Guides
     plan:

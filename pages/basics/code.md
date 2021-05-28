@@ -1,3 +1,5 @@
+## "Read StdIn, Flush StdOut"
+
 In computer programming, **standard streams** are preconnected input and output communication channels between a computer program and its environment when it begins execution. The three input/output (I/O) connections are called standard input (**stdin**), standard output (**stdout**) and standard error (**stderr**).
 
 CodinGame's model is to communicate with text, via these streams: your program is given inputs (the data needed to solve the problem) in the stdin and you need to print out the requested answer in the stdout.
