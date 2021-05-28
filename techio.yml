@@ -13,7 +13,7 @@ plan:
     statement: pages/help/community.md
   - title: Competition
     statement: pages/help/compete.md
-  - title: Contribute to CodinGame
+  - title: Contributing to CodinGame
     statement: pages/help/contribute.md
 - title: Getting Started - Basics
   description: New to CodinGame and kind of lost? Don't worry!
@@ -56,30 +56,19 @@ plan:
     statement: pages/community/moderation.md
   - title: Report an Abuse
     statement: pages/community/abuse.md
-#- title: Introduction
-#  plan:
-#  - title: Why Contribute?
-#    statement: pages/why.md
-- title: Types of Contributions
-    #statement: pages/types/types.md
+- title: Contributing - Types of Contributions
   plan:
   - title: "In/Out Puzzles"
     statement: pages/types/puzzle.md
   - title: "Coding Games"
     statement: pages/types/game.md
-  #- title: Bot Programming Game
-    #statement: pages/types/ai.md
-  #- title: Optimization Puzzle
-    #statement: pages/types/opti.md
   - title: Contest
     statement: pages/types/contest.md
-  - title: "Articles"
+  - title: "Article, Playground"
     statement: pages/types/article.md
-  #- title: Playground
-    #statement: pages/types/playground.md
   - title: CodinGamer Tool
     statement: pages/types/tool.md
-- title: Technical Details
+- title: Contributing - Technical Details
   plan:
   - title: Writing the Statement
     statement: pages/technical/statement.md
@@ -87,20 +76,14 @@ plan:
     statement: pages/technical/stub.md
   - title: Defining Test Cases
     statement: pages/technical/testcase.md
-- title: Contributing to CodinGame
+- title: Contributing - Process
   plan:
-  #- title: Code of Conduct
-  #  statement: pages/contribute/coc.md
-  - title: Chat Moderation
-    statement: pages/contribute/chat.md
+  - title: Approval Process
+    statement: pages/contribute/approval.md
   - title: Contribution Guidelines
     statement: pages/contribute/guidelines.md
-  #- title: Moderation of Contributions
-  #  statement: pages/contribute/moderation.md
-  - title: Rewards
-    statement: pages/contribute/reward.md
-  - title: Licensing
-    statement: pages/contribute/license.md
+  - title: Votes
+    statement: pages/contribute/vote.md
 - title: Community
   plan:
   - title: CodingHubs

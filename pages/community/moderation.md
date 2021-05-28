@@ -1,43 +1,47 @@
-Any contribution that doesn't respect one or more guidelines from the [contribution guidelines](/pages/contribute/guidelines.md) can be rejected.
+## Moderation
 
-## Moderation Process
+Community moderators ensure community members respect the [Code of Conduct](/pages/contribute/coc.md) in all discussion places.
 
-Anyone can vote (upvote/downvote) any contribution.
+**Moderators are volunteers who enjoy CodinGame and its community. While they'll usually be happy to help you with any programming question, remember that they don't have to answer you, so don't ping them for that. Prefer an open question or check the forum.**
 
-A contribution has 3 different states:
+Feel free to contact any moderator should you have an issue with another community member.
 
-- **Private**: a draft that can be shared with friends with the link.
-- **WIP**: as Work In Progress. Visible by everyone for feedback and suggestions but not yet ready to be published. WIP cannot be moderated.
-- **Ready**: visible by everyone and ready for moderation.
+Community moderators have moderation powers on CG chat, Discord and the forum. 
 
-A contribution needs 3 votes from moderators for approval/rejection to get approved/rejected.
+Most CodinGame staff members have moderation rights too. Their username usually starts with "[CG]".
 
-Once approved, a contribution gets published as a puzzle/game on the platform. The contribution is still accessible in the list of accepted contributions.
-Once rejected, a contribution is sent back to the list of contributions of the creator as rejected. The creator can improve the contribution and resubmit it for moderation of the community.
+### Moderation team
 
-## Moderation Rights
-  
-There are two different moderation rights:
+- AntiSquid
+- Astrobytes
+- BlaiseEbuth
+- Bob
+- dbdr
+- eulerscheZahl
+- Icebox
+- Illedan
+- Magus
+- Neumann
+- nicola
+- reCurse
+- robostac
+- struct
+- SeebOmega
+- ThomasNicoullaud
+- Tiramon
+- Tutubalin (#ru only)
+- Uljahn
 
-- **Approver right**: approvers can approve or reject contributions. They also can edit contributions under review (not yet approved/rejected).
-- **Editor right**: editors have approver rights. Editors can also edit approved contributions.
+Moderators have the trust of CodinGame's staff but we reserve ourselves the rights to revoke a moderator rights should any abuse occur.
 
-- Any player who has played more than **50** clashes has approver rights.
-- Any player who has played more than **300** clashes has editor rights.
+Should you have an issue with a moderator, please contact another moderator or CodinGame's community manager directly ([CG]Thibaud).
 
-For all other contribution types:
+### Chat Moderation Guidelines (for moderators)
 
-- Any player whose level is greater or equals to **20** has approver rights.
-- Any player whose level is greater or equals to **29** has editor rights.
+- **Engage in Good Faith**: don't assume the worst from users and try to understand first the reason for an abusive behavior
+- **Lead by Example**: show everyone what's expected from them - great attitude and kindliness
+- **Trust the Team**: in doubt, ask other moderators or staff members for their opinion on the matter
+- **Warning, Kick, Ban**: notify the abuser with a _public_ warning first, then kick if necessary, then ban if necessary
 
-## Moderation Bot
+[Discord moderators channel](https://discord.gg/ytxmYWd)
 
-The moderation process is not perfect. Hence, a bot will automatically remove "bad" contributions according to community's feedback.
-
-Any Clash of Code puzzle having a bad rating in one of the feedback categories will be rejected.
-
-Rating is computed by mode; this means that modes of the CoC will be progressively removed until there is none, and the CoC contribution is finally rejected.
-
-Any puzzle/game having a bad general rating will be rejected.
-
-The ratings are taken into account once they are enough votes.

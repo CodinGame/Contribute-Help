@@ -2,7 +2,7 @@ New to CodinGame? Welcome!
 
 Everything seems a bit complex and overwhelming? Worry no more, and read on!
 
-# Our mission
+## Our mission
 
 **Our goal is to empower developers, no matter their educational or professional background, to learn from their peers, level up their skills and showcase their talent.**
 
@@ -16,7 +16,7 @@ On CodinGame, you'll be able to:
 - hang out with other passionate coders
 - strengthen your confidence and motivation to code
 
-# Getting Started
+## Getting Started
 
 There are a lot of different activities to discover on CodinGame. Here's a [complete overview](https://virtual-atom.com/codingame/introduction/) of them, written by one of our members, Thomas!
 
