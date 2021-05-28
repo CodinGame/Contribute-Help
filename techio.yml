@@ -89,14 +89,14 @@ plan:
     statement: pages/technical/testcase.md
 - title: Contributing to CodinGame
   plan:
-  - title: Code of Conduct
-    statement: pages/contribute/coc.md
+  #- title: Code of Conduct
+  #  statement: pages/contribute/coc.md
   - title: Chat Moderation
     statement: pages/contribute/chat.md
   - title: Contribution Guidelines
     statement: pages/contribute/guidelines.md
-  - title: Moderation of Contributions
-    statement: pages/contribute/moderation.md
+  #- title: Moderation of Contributions
+  #  statement: pages/contribute/moderation.md
   - title: Rewards
     statement: pages/contribute/reward.md
   - title: Licensing
