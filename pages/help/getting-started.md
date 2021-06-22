@@ -1,4 +1,6 @@
-## I'm new to CodinGame
+## Basics
+
+### I'm new to CodinGame
 
 - [What is CodinGame?](pages/basics/mission.md)
 
@@ -6,9 +8,11 @@
 
 - [Where should I start?](pages/basics/mission.md)
 
-- [What kind of activities can I do on CodinGame](pages/basics/mission.md)
+- [Can I learn programming on CodinGame?](pages/basics/mission.md)
 
-## How does it work?
+- What language should I learn?
+
+### How does it work?
 
 - [How does my code communicate with CodinGame's system?](pages/basics/code.md)
 
@@ -16,7 +20,7 @@
 
 - [How do I debug my code?](pages/basics/code.md)
 
-## How do I solve puzzles?
+### How do I solve puzzles?
 
 - [What are test cases and validators?](pages/basics/puzzles.md)
 
@@ -26,10 +30,23 @@
 
 - [What is bot programming?](pages/basics/puzzles.md)
 
-## Getting Help
+### Getting Help
 
 - [Where can I find puzzle hints and tips?](pages/basics/help.md)
 
 - [Where can I ask for help?](pages/basics/help.md)
 
-- [How can I check out other players' solutions](pages/basics/help.md)
+- [How can I check out other players' solutions?](pages/basics/help.md)
+
+## Activities
+
+## Bot Programming
+
+- [What is bot programming on CodinGame?](pages/guides/bot-programming.md)
+
+- [Is bot programming only for advanced programmers?](pages/guides/bot-programming.md)
+
+- [When do I get promoted to the upper league?](pages/guides/bot-programming.md)
+
+
+

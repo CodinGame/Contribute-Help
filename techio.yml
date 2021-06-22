@@ -26,10 +26,12 @@ plan:
     statement: pages/basics/puzzles.md
   - title: Getting help
     statement: pages/basics/help.md
-- title: Getting Started - Guides
+- title: Getting Started - Activities
   plan:
-  - title: My First Bot Programming Game
-    statement: pages/guides/bot-programming.md
+  - title: Bot Programming
+    statement: pages/activities/bot-programming.md
+  - title: Clash of Code
+    statement: pages/activities/coc.md
 - title: Puzzles - Easy
   plan:
   - title: The Descent
@@ -40,6 +42,8 @@ plan:
   plan:
   - title: Coders Strike Back
     statement: pages/bot-programming/csb.md
+  - title: Ghost in the Cell - guide
+    statement: pages/bot-programming/gitc.md
 - title: Community - Discussion Spaces
   plan:
   - title: Discord
@@ -62,7 +66,7 @@ plan:
     statement: pages/types/puzzle.md
   - title: "Coding Games"
     statement: pages/types/game.md
-  - title: Contest
+  - title: Community Challenges/Contests
     statement: pages/types/contest.md
   - title: "Article, Playground"
     statement: pages/types/article.md
@@ -82,7 +86,7 @@ plan:
     statement: pages/contribute/approval.md
   - title: Contribution Guidelines
     statement: pages/contribute/guidelines.md
-  - title: Votes
+  - title: "Votes, Ratings and Rewards"
     statement: pages/contribute/vote.md
 - title: Community
   plan:
