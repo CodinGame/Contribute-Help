@@ -1,11 +1,8 @@
-It's highly recommended to publish a contribution as "WIP" first to get feedback from the community. 
-=> [More details about moderation](pages/contribute/moderation.md)
-
-**The following guidelines are what they are: guidelines. Please keep the experience of players in mind when creating/moderating contributions.**
+**The following guidelines are what they are: guidelines. Please keep the experience of players in mind when creating/approving contributions.**
 
 _Disagree with the current guidelines? Let us know in the [forum](https://www.codingame.com/forum/t/contribution-guidelines/112629)_
 
-# General Guidelines
+## General Guidelines
 
 0. **Contributions must be written in English.**
 
@@ -25,7 +22,7 @@ _Disagree with the current guidelines? Let us know in the [forum](https://www.co
 
 	=> [Stub generator syntax](pages/technical/stub.md)
 
-3. **Test cases must be properly defined.** _(for all games but multiplayer games)_
+3. **Test cases must be properly defined.** _(for all games with test cases)_
 
 	```
 	- Test cases should cover all specifications
@@ -38,24 +35,11 @@ _Disagree with the current guidelines? Let us know in the [forum](https://www.co
 
 4. **Contributions must be original.** _(for all games but Clash of Code)_
 
-5. **The referee program should be robust and reliable.** _(for all games created with the sdk)_
-
-	```
-	- The referee must end a player's program when receiving an unrecognizable command.
-	- The referee must send an error message in the console when receiving an invalid but recognized command.
-	- The referee must stop the game early if the game is stale or already decided.
-	- The referee must not crash. All exceptions must be caught.
-	- Indices must start at 0, not 1. The origin is always the top left pixel/tile.
-	```
-
-	=> [Games guidelines and best practices](pages/types/game.md#guidelines)
-
-6. **The graphics are clear and represent the progression of the game well.** _(for all games created with the sdk)_
 
 
-# Specific Guidelines
+## Specific Guidelines
 
-## Clash of Code
+### Clash of Code
 
 The main goal of a CoC battle is to be short (except in the "Shortest" mode). CoC players are looking for quick simple puzzles to solve; for more complex problems, they'll dive into the classic puzzles section.
 
@@ -76,8 +60,25 @@ The main goal of a CoC battle is to be short (except in the "Shortest" mode). Co
 	Some output formats favor specific languages and make the contribution unbalanced. Binary outputs open the door to "cheating" solutions to get around 50%.
 
 
-## Optimization Puzzles
+### Optimization Puzzles
 
 1. **It must be very difficult to approach the optimal score.**
 
+### Games created with the sdk
 
+1. **The referee program should be robust and reliable.**
+
+	```
+	- The referee must end a player's program when receiving an unrecognizable command.
+	- The referee must send an error message in the console when receiving an invalid but recognized command.
+	- The referee must stop the game early if the game is stale or already decided.
+	- The referee must not crash. All exceptions must be caught.
+	- Indices must start at 0, not 1. The origin is always the top left pixel/tile.
+	```
+
+2. **The graphics are clear and represent the progression of the game well.**
+
+	```
+	- The graphics must be self-explanatory. _A player should understand most of the rules from a replay_
+  	- The graphics must contain the avatars and nicknames of current players (if bot programming).
+  	```

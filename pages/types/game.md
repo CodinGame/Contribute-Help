@@ -1,4 +1,4 @@
-Coding games are turn-based games; they're always associated with a viewer. They're built with the CodinGame Game Engine (sdk). See the technical details in the [sdk documentation](https://www.codingame.com/playgrounds/25775/codingame-sdk-documentation).
+Coding games are turn-based games; they're most of the times associated with a viewer. They're built with the CodinGame Game Engine (sdk). See the technical details in the [sdk documentation](https://www.codingame.com/playgrounds/25775/codingame-sdk-documentation).
 
 In an "infinite" loop, the player(s) must read the entries from the standard input stream and send a response to the Standard Output stream to play the game.
 
@@ -50,29 +50,4 @@ When creating your coding game, we ask you to follow these guidelines in order t
   - The referee must not crash. All exceptions must be caught (especially during the parsing of a Player’s actions, where most errors occur).
   - Indices must start at 0, not 1. The origin is always the top left pixel/tile.
 
-# Best Practices <a name="best-practice"/>
 
-When creating your coding game, we suggest you follow these best practices in order to improve both its performance and players experience.
-
-- **Protocol/Stub**
-  - If options for a player are limited, they should be sent in input (ex: [Wondev Woman](https://www.codingame.com/ide/puzzle/wondev-woman))
-  - The player's id should be 0.
-  - The player's input should be sent first in loops.
-  - Any non-explicit variable should be explained with a comment.
-  - The stub should not change between leagues.
-  - The generated stub should not contain more than 45 lines in Java.
-  - The number of variables per loop should not exceed 10.
-  - There should be a maximum of 2 loops.
-- **Gameplay**
-  - The game should be turn-based. Only perform checks (collision, presence, etc.) at the end of a turn.
-  - The total entities should not exceed 200.
-  - The maximum number of rounds should not exceed 250.
-  - The maximum alloted time per player should not exceed 25 seconds.
-  - It's possible to write a working AI in a few minutes.
-  - If several leagues exist: boss difficulty is low but requires knowledge of each new set of rules per league.
-- **Graphics**
-  - Privilege the use of Sprites over Shapes (Rectangle, Circle, etc.)
-  - Less than 2Mb in total should be used.
-  - The minimum font size should be 36px.
-  - The choice of colors should take into account color-blind people as much as possible.
-  - .png and .jpg assets should be minified.

@@ -45,3 +45,6 @@ Should you have an issue with a moderator, please contact another moderator or C
 
 [Discord moderators channel](https://discord.gg/ytxmYWd)
 
+### Report an abuse
+
+On each CodinGamer profile, there 

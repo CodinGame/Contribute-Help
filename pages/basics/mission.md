@@ -6,7 +6,7 @@ Everything seems a bit complex and overwhelming? Worry no more, and read on!
 
 **Our goal is to empower developers, no matter their educational or professional background, to learn from their peers, level up their skills and showcase their talent.**
 
-_Disclaimer: Except for the content created by the community in the **Learn** section, CodinGame doesn't provide any tutorial to learn the basics of programming from scratch. We highly recommend taking a tutorial online to learn these basics before heading to the **Practice** section and trying to solve coding puzzles._
+_Disclaimer: Except for the content created by the community in the **Learn** section, CodinGame doesn't provide any tutorial to learn the basics of programming from scratch. If you're new to programming, we highly recommend taking a tutorial online to learn these basics before heading to the **Practice** section and trying to solve coding puzzles._
 
 On CodinGame, you'll be able to:
 

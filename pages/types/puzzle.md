@@ -12,7 +12,7 @@ You can find more details about these in the Technical Details section:
 - [Stub Generator Syntax](pages/technical/stub.md)
 - [Test Cases Definition](pages/technical/testcase.md)
 
-To submit a puzzle for moderation, you must code a solution for your puzzle (in the language of your choice).
+To submit a puzzle for approval, you must code a solution for your puzzle (in the language of your choice).
 
 ## Tags and Difficulty
 

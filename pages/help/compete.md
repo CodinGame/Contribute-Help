@@ -1,1 +1,1 @@
-todo
+- Can I reset my progression in a bot programming game?

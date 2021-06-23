@@ -44,58 +44,55 @@ plan:
     statement: pages/bot-programming/csb.md
   - title: Ghost in the Cell - guide
     statement: pages/bot-programming/gitc.md
-- title: Community - Discussion Spaces
-  plan:
-  - title: Discord
-    statement: pages/community/discord.md
-  - title: Integrated Chat
-    statement: pages/community/chat.md
-  - title: Forum
-    statement: pages/community/forum.md
-- title: Community - Ensuring a Safe Space
+# COMMUNITY
+- title: Community - Basics
   plan:
   - title: Code of Conduct
     statement: pages/community/coc.md
+  - title: Discussion Spaces
+    statement: pages/community/chat.md
   - title: Moderation
     statement: pages/community/moderation.md
-  - title: Report an Abuse
-    statement: pages/community/abuse.md
-- title: Contributing - Types of Contributions
+- title: Community - Contributions
   plan:
-  - title: "In/Out Puzzles"
-    statement: pages/types/puzzle.md
-  - title: "Coding Games"
-    statement: pages/types/game.md
-  - title: Community Challenges/Contests
-    statement: pages/types/contest.md
-  - title: "Article, Playground"
-    statement: pages/types/article.md
-  - title: CodinGamer Tool
-    statement: pages/types/tool.md
-- title: Contributing - Technical Details
-  plan:
-  - title: Writing the Statement
-    statement: pages/technical/statement.md
-  - title: Stub Generator Syntax
-    statement: pages/technical/stub.md
-  - title: Defining Test Cases
-    statement: pages/technical/testcase.md
-- title: Contributing - Process
-  plan:
+  - title: Creating your Own Puzzle
+    statement: pages/community/create.md
   - title: Approval Process
-    statement: pages/contribute/approval.md
+    statement: pages/community/approval.md
   - title: Contribution Guidelines
-    statement: pages/contribute/guidelines.md
-  - title: "Votes, Ratings and Rewards"
-    statement: pages/contribute/vote.md
-- title: Community
+    statement: pages/community/guidelines.md
+  - title: Community Blog
+    statement: pages/community/article.md
+  - title: Community Tools
+    statement: pages/community/tool.md
+- title: Community - Events
   plan:
   - title: CodingHubs
     statement: pages/community/hub.md
   - title: List of Community Contests
     statement: pages/community/contest.md
-  - title: List of Community Tools
-    statement: pages/community/tool.md
+#- title: Contributing - Types of Contributions
+  # plan:
+  # - title: "In/Out Puzzles"
+  #   statement: pages/types/puzzle.md
+  # - title: "Coding Games"
+  #   statement: pages/types/game.md
+  # - title: Community Challenges/Contests
+  #   statement: pages/types/contest.md
+  # - title: "Article, Playground"
+  #   statement: pages/types/article.md
+  # - title: CodinGamer Tool
+  #   statement: pages/types/tool.md
+- title: Platform - Puzzle
+  plan:
+  - title: Statement
+    statement: pages/technical/statement.md
+  - title: Stub Generator
+    statement: pages/technical/stub.md
+  - title: Test Cases
+    statement: pages/technical/testcase.md
+  - title: Languages version
+    statement: pages/technical/language.md
   #- title: Hall of Fame
     #statement: pages/community/hof.md
 

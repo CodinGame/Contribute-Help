@@ -1,3 +1,5 @@
+_CodingHubs are not supported anymore._
+
 ## What is a CodingHub?
 
 A CodingHub is an event where developers meet, code and converse. Most of the times, they happen during a coding contest, so players can't discuss the game and share strategies.
@@ -99,9 +101,6 @@ In green, you can see the CodinGamers interested in joining a CodingHub. In yell
 
 [Lubelski CodingHub](https://www.facebook.com/lubelskicodinghub/)
 
-## <a name="host"></a>How to host a CodingHub?
-
-Just fill [this form](https://codingame.typeform.com/to/ihoVPP). Thibaud will contact you and add your CodingHub to the list above.
 
 ### Guidelines
 
