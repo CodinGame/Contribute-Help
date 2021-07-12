@@ -1,7 +1,7 @@
 A test case is composed of 2 tests:
 
-- a test for the IDE
-- a test for validating a solution, often called a _validator_.
+- a test for the IDE for players to test their code against a specific scenario
+- a test, called _validator_ to validate a specific scenario
 
 IDE tests are visible to the players whereas validators are hidden.
 
@@ -26,5 +26,5 @@ _It's included in the statement as the example._
 
 ## Best Practices
 
-- It can be useful to give explicit names to test cases to help players quickly understand their purpose
+- It is useful to give explicit names to test cases to help players quickly understand their purpose
 

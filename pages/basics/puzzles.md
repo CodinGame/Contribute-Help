@@ -1,6 +1,6 @@
 Most puzzles in the **Practice** section are In/Out puzzles. You're given a problem, inputs to read in the stdin, and our system expects your program to print the requested answer in stdout, depending on the inputs.
 
-An In/Out puzzle contains a statement, the default code, and test cases. It is also defined by tags and a difficulty from easy to very hard.
+An In/Out puzzle contains a statement, a default code, and test cases. It is also defined by tags and a difficulty from easy to very hard.
 
 ## Test Cases and Validators
 
