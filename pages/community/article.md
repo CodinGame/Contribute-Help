@@ -1,6 +1,6 @@
 ## Blog Article <a name="blog"/>
 
-_[Edit 2021/05/28] Updates on the CodinGame's blog are currently paused. To contribute an article on CodinGame, use [Tech.io](/types/article.md#playground)_
+_[Edit 2021/05/28] Updates on the CodinGame's blog are currently paused. To contribute an article on CodinGame, please use [Tech.io](/types/article.md#playground)_
 
 The [CodinGame's blog](https://www.codingame.com/blog/) is a community blog in the sense that articles are written by both CodinGame and CodinGamers.
 

@@ -64,6 +64,7 @@ The main goal of a CoC battle is to be short (except in the "Shortest" mode). Co
 
 1. **It must be very difficult to approach the optimal score.**
 
+
 ### Games created with the sdk
 
 1. **The referee program should be robust and reliable.**

@@ -22,16 +22,18 @@ plan:
     statement: pages/basics/mission.md
   - title: How does it work?
     statement: pages/basics/code.md
-  - title: How do I solve puzzles?
+  - title: In/Out Puzzles
     statement: pages/basics/puzzles.md
+  - title: Turn-based Coding Games
+    statement: pages/basics/game.md
   - title: Getting help
     statement: pages/basics/help.md
-- title: Getting Started - Activities
-  plan:
-  - title: Bot Programming
-    statement: pages/activities/bot-programming.md
-  - title: Clash of Code
-    statement: pages/activities/coc.md
+# - title: Getting Started - Activities
+#   plan:
+#   - title: Bot Programming
+#     statement: pages/activities/bot-programming.md
+#   - title: Clash of Code
+#     statement: pages/activities/coc.md
 - title: Puzzles - Easy
   plan:
   - title: The Descent
@@ -85,14 +87,14 @@ plan:
   #   statement: pages/types/tool.md
 - title: Technical Details
   plan:
+  - title: Languages Versions
+    statement: pages/technical/languages.md
   - title: Statement
     statement: pages/technical/statement.md
   - title: Stub Generator
     statement: pages/technical/stub.md
   - title: Test Cases
     statement: pages/technical/testcase.md
-  - title: Languages version
-    statement: pages/technical/languages.md
   #- title: Hall of Fame
     #statement: pages/community/hof.md
 

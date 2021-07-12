@@ -1,4 +1,4 @@
-_CodingHubs are not supported anymore._
+_[Edit 2021/05/28] CodingHubs are not supported anymore._
 
 ## What is a CodingHub?
 

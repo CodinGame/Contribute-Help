@@ -1,6 +1,6 @@
 Coding games are turn-based games; they're most of the times associated with a viewer. They're built with the CodinGame Game Engine (sdk). See the technical details in the [sdk documentation](https://www.codingame.com/playgrounds/25775/codingame-sdk-documentation).
 
-In an "infinite" loop, the player(s) must read the entries from the standard input stream and send a response to the Standard Output stream to play the game.
+In an "infinite" loop, the player(s) must read the entries from the Standard Input stream and send a response to the Standard Output stream to play the game.
 
 Each iteration of the _while_ loop corresponds to a turn of the puzzle where your code must read input data in stdin and output a "move" in stdout.
 

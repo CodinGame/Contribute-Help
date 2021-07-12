@@ -4,8 +4,6 @@ Community moderators ensure community members respect the [Code of Conduct](/pag
 
 **Moderators are volunteers who enjoy CodinGame and its community. While they'll usually be happy to help you with any programming question, remember that they don't have to answer you, so don't ping them for that. Prefer an open question or check the forum.**
 
-Feel free to contact any moderator should you have an issue with another community member.
-
 Community moderators have moderation powers on CG chat, Discord and the forum. 
 
 Most CodinGame staff members have moderation rights too. Their username usually starts with "[CG]".
@@ -47,4 +45,8 @@ Should you have an issue with a moderator, please contact another moderator or C
 
 ### Report an abuse
 
-On each CodinGamer profile, there 
+Feel free to contact any moderator should you have an issue with another community member.
+
+You also have the possibility to report this member directly to the CodinGame team, by using the 3-dot menu on their profile.
+
+<img src="https://www.codingame.com/servlet/mfileservlet?id=67538122852296" width="400" style="margin-left: auto;margin-right: auto;display: block;">
