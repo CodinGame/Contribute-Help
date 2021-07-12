@@ -92,7 +92,7 @@ plan:
   - title: Test Cases
     statement: pages/technical/testcase.md
   - title: Languages version
-    statement: pages/technical/language.md
+    statement: pages/technical/languages.md
   #- title: Hall of Fame
     #statement: pages/community/hof.md
 
