@@ -83,7 +83,7 @@ plan:
   #   statement: pages/types/article.md
   # - title: CodinGamer Tool
   #   statement: pages/types/tool.md
-- title: Platform - Puzzle
+- title: Technical Details
   plan:
   - title: Statement
     statement: pages/technical/statement.md

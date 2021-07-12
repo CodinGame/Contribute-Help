@@ -1,4 +1,4 @@
-Coding games are turn-based games; they're most of the times associated with a viewer. They're built with the CodinGame Game Engine (sdk). See the technical details in the [sdk documentation](https://www.codingame.com/playgrounds/25775/codingame-sdk-documentation).
+[deprecated] Coding games are turn-based games; they're most of the times associated with a viewer. They're built with the CodinGame Game Engine (sdk). See the technical details in the [sdk documentation](https://www.codingame.com/playgrounds/25775/codingame-sdk-documentation).
 
 In an "infinite" loop, the player(s) must read the entries from the standard input stream and send a response to the Standard Output stream to play the game.
 
@@ -13,8 +13,7 @@ There are three types of coding games.
 
 Like for In/Out puzzles, the player plays against the game and must pass all test cases to solve the puzzle.
 
-_Example: [Power of Thor](https://www.codingame.com/training/easy/power-of-thor-episode-1)
-Each turn, the player must output a direction for Thor to take to finally reach the light._
+
 
 **Solo puzzles should also respect the [test cases guidelines](pages/technical/testcase.md#guidelines).**
 

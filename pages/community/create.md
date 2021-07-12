@@ -29,11 +29,11 @@ Contributing to CodinGame rewards with XP.
 
 Here is what you can create on CodinGame:
 
-1. [In/Out Puzzles](pages/types/puzzle.md)
+1. [In/Out Puzzles](/pages/basics/puzzle.md)
 _(created via a form on CodinGame)_
 	- Classic Puzzle
 	- Clash of Code puzzle
-2. [Coding Games](/pages/types/game.md)
+2. [Coding Games](/pages/basics/game.md)
 _(created with the CodinGame Game Engine, also known as the sdk)_
 	- Solo Game
 	- Multiplayer Game (Bot Programming)
