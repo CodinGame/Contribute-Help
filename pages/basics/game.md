@@ -21,9 +21,11 @@ The goal is not to output a solution but to create a bot (an AI) capable of play
 
 Participants play against themselves in matches of 2 to 4 players in an arena. Once players submit their code (AI) in the arena, the system matches them against other players of the arena. Each match between players impacts their score, hence their ranking.
 
+The game is divided into several leagues. You start in the Wood leagues with a simplified version of the game. When ranking up, you'll be promoted to new leagues: Bronze, Silver, Gold and finally Legend.
+
 In each league but the last (Legend), there is a reference bot: the boss. Any player who ends up above the boss' score after their ranking battles are finished will be promoted to the league above.
 
-Here's a [guide to get started in bot programming games](https://www.codingame.com/playgrounds/53785/tutorial-for-bot-programming-on-codingame). It's actually simpler than it looks!
+Here's a [guide to get started in bot programming games](/bot-programming/gitc.md).
 
 ## Optimization Games
 

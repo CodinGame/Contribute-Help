@@ -42,6 +42,8 @@ plan:
     statement: pages/easy-puzzles/temperatures.md
 - title: Puzzles - Bot Programming
   plan:
+  - title: Classic Mistakes and Tips
+    statement: pages/bot-programming/advice.md
   - title: Coders Strike Back
     statement: pages/bot-programming/csb.md
   - title: Ghost in the Cell - guide
