@@ -1,5 +1,7 @@
 title: Help Center
 plan:
+- title: Welcome
+  statement: pages/main.md
 - title: Frequently Asked Questions
   description: Main menu
   plan:
