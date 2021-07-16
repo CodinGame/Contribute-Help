@@ -4,7 +4,7 @@ plan:
   description: Main menu
   plan:
   - title: Community Help Center
-    statement: readme.md
+    statement: README.md
   - title: Getting Started on CodinGame
     statement: pages/help/getting-started.md
   - title: Puzzles and Games
