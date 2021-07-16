@@ -1,12 +1,10 @@
 title: Help Center
 plan:
-- title: Welcome
-  statement: pages/main.md
 - title: Frequently Asked Questions
   description: Main menu
   plan:
-  - title: Main Categories
-    statement: pages/help/categories.md
+  - title: Community Help Center
+    statement: readme.md
   - title: Getting Started on CodinGame
     statement: pages/help/getting-started.md
   - title: Puzzles and Games
