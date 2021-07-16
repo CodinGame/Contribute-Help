@@ -21,3 +21,9 @@ On CodinGame, you'll be able to:
 There are a lot of different activities to discover on CodinGame. Here's a [complete overview](https://virtual-atom.com/codingame/introduction/) of them, written by one of our members, Thomas!
 
 We recommend following the **quest map** learning paths. You'll find the map on your [home page](https://www.codingame.com/home).
+
+### Programming Languages
+
+CodinGame supports more than 25 programming languages. Find the [complete list here](/pages/technical/languages.md).
+
+In programming, there isn't one better language to start with and use for everything. A programming language is a tool. Use them accordingly for the problems you need to solve. That being said, in today's world, you can safely start learning the basics of JavaScript, Python or Java/C# without risking losing your time.

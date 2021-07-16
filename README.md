@@ -1,10 +1,11 @@
-# Welcome to the Core of CodinGame's Community
+## Welcome to CodinGame's Help Center
 
-> This repository is for the documentation on the contribution part of CodinGame. It can be found [here](https://www.codingame.com/playgrounds/40701/contribute---help).
+Welcome to the main place of documentation about every activities you can do on CodinGame.
 
-The CodinGame platform has many facets but its community definitely represents its beating heart. This documentation has the following objectives:
+If you have a question, either look for it in the main categories of the first chapter listing most questions or directly navigate through the other chapters below to find a specific topic.
 
-- present and organize the different ways to contribute to the platform and to the community
-- showcase the community and the creations of its most active contributors
+## Help us, help others
 
-Feel free to propose changes or open issues.
+This documentation is a playground, meaning it's built using a [GitHub repo]() and is published on [CodinGame](https://www.codingame.com/playgrounds/40701)
+
+Feel free to improve this documentation by contributing to the repo. Changes are published by the CodinGame team.

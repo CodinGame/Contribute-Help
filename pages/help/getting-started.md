@@ -1,42 +1,40 @@
-## Basics
+## CodinGame Basics
 
-### I'm new to CodinGame
+### [I'm new to CodinGame](pages/basics/mission.md)
 
-- [What is CodinGame?](pages/basics/mission.md)
+- What is CodinGame?
 
-- [What is CodinGame's mission?](pages/basics/mission.md)
+- What is CodinGame's mission?
 
-- [Where should I start?](pages/basics/mission.md)
+- Where should I start?
 
-- [Can I learn programming on CodinGame?](pages/basics/mission.md)
+- Can I learn programming on CodinGame?
 
 - What language should I learn?
 
-### How does it work?
+### [How does it work?](pages/basics/code.md)
 
-- [How does my code communicate with CodinGame's system?](pages/basics/code.md)
+- How does my code communicate with CodinGame's system?
 
-- [What does the default code given in puzzles do exactly?](pages/basics/code.md)
+- What does the default code given in puzzles do exactly?
 
-- [How do I debug my code?](pages/basics/code.md)
+- How do I debug my code?
 
-### How do I solve puzzles?
+### [How do I solve puzzles?](pages/basics/puzzles.md)
 
-- [What are test cases and validators?](pages/basics/puzzles.md)
+- What are test cases and validators?
 
-- [How do I solve a classic puzzle?](pages/basics/puzzles.md)
+- How do I solve a classic puzzle?
 
-- [Why is there an infinite while loop in some puzzles?](pages/basics/puzzles.md)
+- Why is there an infinite while loop in some puzzles?
 
-- [What is bot programming?](pages/basics/puzzles.md)
+### [Getting Help](pages/basics/help.md)
 
-### Getting Help
+- Where can I find puzzle hints and tips?
 
-- [Where can I find puzzle hints and tips?](pages/basics/help.md)
+- Where can I ask for help?
 
-- [Where can I ask for help?](pages/basics/help.md)
-
-- [How can I check out other players' solutions?](pages/basics/help.md)
+- How can I check out other players' solutions?
 
 ## Activities
 
