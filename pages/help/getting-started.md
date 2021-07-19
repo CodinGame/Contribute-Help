@@ -22,9 +22,17 @@
 
 - What are test cases and validators?
 
-- How do I solve a classic puzzle?
+- What's an In/Out puzzle?
+
+- What is Clash of Code?
+
+## [Coding Games ➡️](pages/basics/game.md)
 
 - Why is there an infinite while loop in some puzzles?
+
+- What is bot programming on CodinGame?
+
+- How do games with leagues work?
 
 ## [Getting Help ➡️](pages/basics/help.md)
 

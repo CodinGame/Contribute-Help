@@ -13,7 +13,7 @@ Each turn, the player must output a direction for Thor to take to finally reach 
 
 The game loop is actually not infinite: there is a maximum number of turns allowed to solve each puzzle. Once your program sends the expected output or reached the expected state, the referee program (on CodinGame side) will end the loop.
 
-## Bot Programming Games
+### Bot Programming Games
  
 Bot programming games are multiplayer games with a game loop. There are no test cases to pass.
 
@@ -25,13 +25,13 @@ The game is divided into several leagues. You start in the Wood leagues with a s
 
 In each league but the last (Legend), there is a reference bot: the boss. Any player who ends up above the boss' score after their ranking battles are finished will be promoted to the league above.
 
-Here's a [guide to get started in bot programming games](/bot-programming/gitc.md).
+Here's a [guide to get started in bot programming games](/pages/bot-programming/gitc.md).
 
-## Optimization Games
+### Optimization Games
 
 Optimization games are games for which a player's score is computed based on specific criteria. All players are ranked against this score.
 
-### StdIn/StdOut synch
+## StdIn/StdOut synch
 
 It's really important to continue reading all input data on the stdin each turn; else, your program will desynchronize from the referee program.
 

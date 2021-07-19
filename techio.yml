@@ -7,11 +7,11 @@ plan:
     statement: README.md
   - title: Getting Started on CodinGame
     statement: pages/help/getting-started.md
-  - title: Puzzles and Games
-    statement: pages/help/puzzles.md
+ # - title: Puzzles
+#statement: pages/help/puzzles.md
   - title: Community Life
     statement: pages/help/community.md
-  - title: Competition
+  - title: Games
     statement: pages/help/compete.md
   - title: Contributing to CodinGame
     statement: pages/help/contribute.md
@@ -28,21 +28,15 @@ plan:
     statement: pages/basics/game.md
   - title: Getting help
     statement: pages/basics/help.md
-# - title: Getting Started - Activities
+# - title: Puzzles - Easy
 #   plan:
-#   - title: Bot Programming
-#     statement: pages/activities/bot-programming.md
-#   - title: Clash of Code
-#     statement: pages/activities/coc.md
-- title: Puzzles - Easy
+#   - title: The Descent
+#     statement: pages/easy-puzzles/descent.md
+#   - title: Temperatures
+#     statement: pages/easy-puzzles/temperatures.md
+- title: Games - Bot Programming
   plan:
-  - title: The Descent
-    statement: pages/easy-puzzles/descent.md
-  - title: Temperatures
-    statement: pages/easy-puzzles/temperatures.md
-- title: Puzzles - Bot Programming
-  plan:
-  - title: Classic Mistakes and Tips
+  - title: Tips and Resources
     statement: pages/bot-programming/advice.md
   - title: Coders Strike Back
     statement: pages/bot-programming/csb.md

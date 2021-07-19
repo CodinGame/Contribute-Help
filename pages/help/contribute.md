@@ -1,17 +1,35 @@
-## Types of Contributions
+## [Creating your own puzzle/game](/pages/community/create.md)
 
-### In/Out Puzzles
+- What are the different stages of the contribution process?
 
-### Coding Games
+- What kind of contributions can I make?
 
-### Community Challenges/Contests
+- What are the best practices for making a coding game?
 
-### Articles
+## [Approval Process](/pages/community/approval.md)
 
-## Contribution Process
+- How do contributions get approved/refused?
 
-### Approval Process
+- What are the conditions to be able to approve/refuse a contribution?
 
-### Contribution Guidelines
+- Once approved, can a contribution be removed?
 
-### Votes, Ratings, Rewards
+- Is there a reward for contributing to CodinGame?
+
+## [Contribution Guidelines](/pages/community/guidelines.md)
+
+- What are the guidelines for contributing to CodinGame
+
+- Can the guidelines be updated?
+
+## [Community Blog](/pages/community/article.md)
+
+- How can I write an article to be published on CodinGame?
+
+- What is Tech.io?
+
+## [Community Tools](/pages/community/tool.md)
+
+- Does CodinGame have an API?
+
+- What types of tools exist around CodinGame?

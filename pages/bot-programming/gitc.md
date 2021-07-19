@@ -2,11 +2,13 @@ Creating your first bot/AI on CodinGame can be daunting, even scary for some...
 
 **If you know the basics of programming, you can write bots.**
 
-_Disclaimer: this guide below by [CG]Thibaud aims at showing how easy and straightforward it can be to get started into a bot programming game. There are plenty of classic algorithms to use in bot programming, however it's not the focus here._
+If this is your very first experience with bot programming on CodinGame, it is recommended to look into [Coders Strike Back game](/pages/bot-programming/csb.md) first.
 
-Even this guide contains a few Java snippets, it is language-agnostic.
+_Disclaimer: this guide below by [CG]Thibaud aims at showing how easy and straightforward it can be to get started into a bot programming game, using [Ghost in the Cell](https://www.codingame.com/multiplayer/bot-programming/ghost-in-the-cell) as an example. There are plenty of classic algorithms you can use in bot programming, however it's not the focus here._
 
-# Understanding the game
+Even if this guide contains a few Java snippets, it is language-agnostic.
+
+## Understanding the game
 
 First things first: play the default code to see what the game is about visually. Then you can quickly scan the statement for the main pieces of information. You don't need to worry about details right now.
 
@@ -18,7 +20,7 @@ After two or three minutes of reading, we quickly understand that:
 
 This is enough for now.
 
-# The dumbest bot
+## The dumbest bot
 
 Let's get into the code already and try to implement the first simplest strategy that comes to mind:
 
@@ -126,7 +128,7 @@ I'm promoted to Wood 2  🚀
 
 And already ranking in the top 10 of the Wood 2 league! That was easy, wasn't it?
 
-# Discover new rules
+## Discover new rules
 
 Every new Wood league usually comes with a new rule to learn. Here, I'm told I can now output several commands per turn.
 
@@ -158,7 +160,7 @@ And it seems this code is good enough to even be promoted to the Bronze league. 
 
 _Don't worry if you miss some Wood rules, you can quickly scan the statement to check for the new rules in the updated statement._
 
-# What's next?
+## What's next?
 
 My advice is to continue iterating. Just continue implementing the simplest ideas you can find to improve your bot's decision making.
 
