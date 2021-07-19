@@ -9,7 +9,7 @@ Hence, one of our taglines being: _"Read stdin, Flush stdout"_
 
 The default code, given in all CodinGame puzzles, already parses the inputs in stdin, does nothing with them and prints a default output in the stdout.
 
-You can find more details about this default code and what to expect from the inputs and how to format your answer at the bottom of any puzzle statement.
+You can find more details about this default code and what to expect from the inputs and how to format your answer at the bottom of any puzzle statement. [More details about the statement](/pages/technical/statement.md)
 
 ## Debugging
 

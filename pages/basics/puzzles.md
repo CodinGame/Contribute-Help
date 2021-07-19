@@ -4,7 +4,7 @@ An In/Out puzzle contains a statement, a default code, and test cases. It is als
 
 ## Test Cases and Validators
 
-Most puzzles work with a system of test cases: visible IDE tests to help you verify your code solve the given problem, and corresponding hidden tests, called _validators_ for the system to validate you solved the puzzle.
+Most puzzles work with a system of test cases: visible IDE tests to help you verify your code solve the given problem, and corresponding hidden tests, called _validators_ for the system to validate you solved the puzzle. [More details about test cases](/pages/technical/testcase.md)
 
 You solve these puzzles by passing all validators. Some puzzles (Code Golf, Optimization) will ask you to pass the tests _and_ to optimize a specific criterion, and you'll be then ranked against other players based on that criterion.
 

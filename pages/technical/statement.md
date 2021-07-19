@@ -1,6 +1,6 @@
-The statement should be written **in English**. Make it as **clear and concise** as possible.
+The statement should be written **in English** and be as **clear and concise** as possible.
 
-It should contain:
+A typical statement contains:
 
 1. A quick description of the goal: 1 or 2 sentences maximum.
 2. A list of rules to explain how the puzzle/game works.
@@ -10,9 +10,9 @@ It should contain:
 	- expected output
 	- reasonable constraints
 
-Adding a theme/story is non-mandatory.
+A theme/story is non-mandatory.
 
-# <a name="guidelines"></a> Guidelines
+## <a name="guidelines"></a> Guidelines to write good statements
 
 The statement must be clear and non-ambiguous.
 
@@ -34,10 +34,10 @@ _For instance **don’t say** “This next part looks complicated but you’ll g
 
 _It must be clear, precise, with reasonable constraints..._
 
-# <a name="puzzle-statement"></a> Puzzle Statement
+## <a name="puzzle-statement"></a> Puzzle Statement
 _(In/Out puzzle and CoC only)_
 
-## Syntax
+### Syntax
 
 \<\<Bold\>\> [[Variable]] {{Constant}} renders as:
 
@@ -45,7 +45,7 @@ _(In/Out puzzle and CoC only)_
 
 \`Monospace\` renders as: `Monospace`
 
-## Example
+### Example
 
 ```Goal:
 
@@ -75,16 +75,16 @@ Constraints:
 
 The statement is limited to 5k characters.
 
-# Game Statement
+## Game Statement
 _(For all sdk games)_
 
 For all games created with the sdk, the statement is an html document. You can find a default one [here](https://github.com/CodinGame/game-skeleton/blob/master/config/statement_en.html)
 
-## Leagues
+### Leagues
 
 There is one statement file per league. They're all generated from one general statement file (located here: /config/statement_en.html.tpl) when building the project.
 
-## Conditional logic
+### Conditional logic
 
 To show a piece of statement only in league _x_, write
 

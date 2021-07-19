@@ -18,6 +18,8 @@
 
 - How do I debug my code?
 
+- Why can't I see validators?
+
 ## [Solving puzzles? ➡️](pages/basics/puzzles.md)
 
 - What are test cases and validators?

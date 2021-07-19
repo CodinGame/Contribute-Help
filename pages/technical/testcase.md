@@ -1,11 +1,11 @@
 A test case is composed of 2 tests:
 
-- a test for the IDE for players to test their code against a specific scenario
-- a test, called _validator_ to validate a specific scenario
+- a test in the IDE for players to test their code against a specific scenario
+- a test, called _validator_ to validate the same kind of scenario
 
 IDE tests are visible to the players whereas validators are hidden.
 
-# Guidelines <a name="guidelines"/>
+## Guidelines for writing test cases <a name="guidelines"/>
 
 - Test cases should cover all specifications
 

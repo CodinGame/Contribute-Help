@@ -25,6 +25,8 @@ Your CodinGame password
 *MUC Server*
 conference.codingame.com
 
+By specifying “?disableChat=true” to the end of the URL when you’re in the IDE, you’ll disable the chat. It’s useful to gain a bit more space to code, especially when you’re streaming and showing your code on screen.
+
 ### Automaton2000 and AutomatonNN
 
 Automaton2000 and AutomatonNN are chat bots present on #world and #fr chats. Learn more about them in this [blog article](https://www.codingame.com/blog/markov-chain-automaton2000/)
