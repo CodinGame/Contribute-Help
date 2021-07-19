@@ -26,7 +26,7 @@ plan:
     statement: pages/basics/puzzles.md
   - title: Turn-based Coding Games
     statement: pages/basics/game.md
-  - title: Getting help
+  - title: Getting Help
     statement: pages/basics/help.md
 # - title: Puzzles - Easy
 #   plan:
@@ -40,7 +40,7 @@ plan:
     statement: pages/bot-programming/advice.md
   - title: Coders Strike Back
     statement: pages/bot-programming/csb.md
-  - title: Ghost in the Cell - guide
+  - title: Ghost in the Cell - Guide
     statement: pages/bot-programming/gitc.md
 # COMMUNITY
 - title: Community - Basics

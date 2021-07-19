@@ -25,6 +25,10 @@ Your CodinGame password
 *MUC Server*
 conference.codingame.com
 
+### Automaton2000 and AutomatonNN
+
+Automaton2000 and AutomatonNN are chat bots present on #world and #fr chats. Learn more about them in this [blog article](https://www.codingame.com/blog/markov-chain-automaton2000/)
+
 ## Discord server
 
 Join the community regulars on our [Discord server](https://discord.gg/qAKXEEv).
