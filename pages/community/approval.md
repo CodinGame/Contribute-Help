@@ -2,7 +2,7 @@
 
 A contribution needs 3 votes from approvers for approval/rejection to get approved/rejected.
 
-Any contribution that doesn't respect one or more guidelines from the [contribution guidelines](/pages/contribute/guidelines.md) can be rejected.
+Any contribution that doesn't respect one or more guidelines from the [contribution guidelines](/pages/community/guidelines.md) can be rejected.
 
 Once approved, a contribution gets published as a puzzle/game on the platform. The contribution is still accessible in the list of accepted contributions.
 Once rejected, a contribution is sent back to the author's list of contributions as rejected. The creator can improve the contribution and resubmit it for another community approval.
