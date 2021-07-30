@@ -12,7 +12,6 @@ Most CodinGame staff members have moderation rights too. Their username usually 
 
 - AntiSquid
 - Astrobytes
-- BlaiseEbuth
 - Bob
 - dbdr
 - eulerscheZahl
