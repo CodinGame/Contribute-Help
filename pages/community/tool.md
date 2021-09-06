@@ -41,5 +41,3 @@ To complete the previous tool by Royale, CG Multi allows you to check your bot p
 CG stats provides you with statistics of your latest submission in a multiplayer game.
 
 [http://cgstats.magusgeek.com/app](http://cgstats.magusgeek.com/app)
-
-Additional tools and ressources can be found in [this list](https://www.codingame.com/forum/t/community-resources/187070) created by BlaiseEbuth.
