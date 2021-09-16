@@ -65,6 +65,8 @@ plan:
     statement: pages/community/tool.md
 - title: Community - Events
   plan:
+  - title: Coding Escape Events
+    statement: pages/escape/event.md
   - title: CodingHubs
     statement: pages/community/hub.md
   - title: List of Community Contests
