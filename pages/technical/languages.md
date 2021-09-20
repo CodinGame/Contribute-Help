@@ -20,7 +20,7 @@ Here is the list of compilers/runtimes associated with each programming language
 |F#			|.NET Core Runtime 3.1.3			|								|
 |Java		|Oracle JDK 1.8.0 <br> OpenJDK 11.0.2 |								|
 |JavaScript	|Node 14.16.1 						|								|
-|Go			|1.13.1								|								|
+|Go			|1.17.1								|								|
 |Groovy		|3.0.8 - Oracle JVM 1.8				|								|
 |Haskell	|Haskell Platform 8.4.3				|								|
 |Kotlin		|Kotlin 1.5.0 						|								|
