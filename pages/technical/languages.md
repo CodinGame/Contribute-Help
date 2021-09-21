@@ -35,5 +35,5 @@ Here is the list of compilers/runtimes associated with each programming language
 |Rust		|1.51.0 							|chrono 0.4.19, itertools 0.10.0, libc 0.2.93, <br> rand 0.8.3, regex 1.4.5, time 0.2.26 	 																			 |
 |Scala		|2.13.5 - Oracle JVM 1.8			|											|
 |Swift		|5.3.3								|											|
-|TypeScript	|4.2.2 (ES2018) - Node 14.16.1		|											|
+|TypeScript	|4.2.2 (ES2020) - Node 14.16.1		|											|
 |VB.NET		|.NET Core Runtime 3.1.3 			|											|
