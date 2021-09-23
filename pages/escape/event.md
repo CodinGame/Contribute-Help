@@ -4,11 +4,11 @@ The [Fall Challenge 2021](https://www.codingame.com/contests/fall-challenge-2021
 
 Learn about the Coding Escape game format [here](pages/escape/general.md). For more information about the corporate team-building offer, please [fill this form](https://codingame.typeform.com/to/tDphTbVB#from=fc2021).
 
-## The Event
+## The event
 
 1. How much does it cost?
 	
-	Participating in the event is free.
+	Participating in this community event is free.
 
 2. Do I need a CodinGame account to participate?
 
@@ -30,7 +30,7 @@ Learn about the Coding Escape game format [here](pages/escape/general.md). For m
 
 	Or you can use the team link of a friend to automatically join their team (you can't leave a team you're a leader of, you must first kick your teammates out).
 
-## The Competition
+## The competition
 
 1. How is the ranking working?
 

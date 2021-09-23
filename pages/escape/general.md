@@ -10,6 +10,8 @@ There is a limited number of public missions. The rest of the missions are part 
 
 If you're part of a company and interested in this offer, please [fill this form](https://codingame.typeform.com/to/tDphTbVB#from=cg-faq).
 
+Check out the next [community Coding Escape event](pages/escape/event.md).
+
 ## Solving a mission
 
 Each Coding Escape mission is a race against the clock.
