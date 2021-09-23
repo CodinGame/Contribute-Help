@@ -42,6 +42,10 @@ plan:
     statement: pages/bot-programming/csb.md
   - title: Ghost in the Cell - Guide
     statement: pages/bot-programming/gitc.md
+- title: Games - Coding Escape
+  plan:
+  - title: Coding Escape 101
+  statement: pages/escape/general.md
 # COMMUNITY
 - title: Community - Basics
   plan:
