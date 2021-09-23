@@ -30,6 +30,8 @@ Learn about the Coding Escape game format [here](pages/escape/general.md). For m
 
 	Or you can use the team link of a friend to automatically join their team (you can't leave a team you're a leader of, you must first kick your teammates out).
 
+	You cannot participate as a solo player.
+
 ## The competition
 
 1. How is the ranking working?
