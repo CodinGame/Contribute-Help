@@ -24,13 +24,13 @@ Learn about the Coding Escape game format [here](pages/escape/general.md). For m
 
 4. How do I join a team?
 
+	*Exceptionally, for the Fall Challenge event, it will be possible to complete the mission as a solo player. We still recommend to play the mission as a team for a better experience.*
+
 	By registering to the event, you automatically join an empty team.
 
 	You can either send your team link to your friends for them to join your team.
 
 	Or you can use the team link of a friend to automatically join their team (you can't leave a team you're a leader of, you must first kick your teammates out).
-
-	You cannot participate as a solo player.
 
 ## The competition
 
