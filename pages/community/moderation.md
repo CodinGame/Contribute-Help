@@ -10,6 +10,7 @@ Most CodinGame staff members have moderation rights too. Their username usually 
 
 ### Moderation team
 
+- 5DN1L
 - AntiSquid
 - Astrobytes
 - Bob
@@ -28,6 +29,7 @@ Most CodinGame staff members have moderation rights too. Their username usually 
 - Tiramon
 - Tutubalin (#ru only)
 - Uljahn
+- Wontonimo
 
 Moderators have the trust of CodinGame's staff but we reserve ourselves the rights to revoke a moderator rights should any abuse occur.
 
