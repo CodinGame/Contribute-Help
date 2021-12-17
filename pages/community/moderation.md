@@ -1,6 +1,6 @@
 ## Moderation
 
-Community moderators ensure community members respect the [Code of Conduct](/pages/contribute/coc.md) in all discussion places.
+Community moderators ensure that the discussion places of CodinGame remain a friendly place where all community members respect the [Code of Conduct](/pages/contribute/coc.md).
 
 **Moderators are volunteers who enjoy CodinGame and its community. While they'll usually be happy to help you with any programming question, remember that they don't have to answer you, so don't ping them for that. Prefer an open question or check the forum.**
 
