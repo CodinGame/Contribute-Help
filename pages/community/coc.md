@@ -13,7 +13,7 @@ In details:
 
 2. **No abuse, harassment or discrimination of any kind is tolerated.**
 
-	Don't be an ass. While CodinGame and its community are free to access, it doesn't give you rights to make it your playground. 
+	Don't spam nor flood the chat with non-sense, jokes or private discussions. While CodinGame and its community are free to access, it doesn't give you rights to make it your playground. It's a shared space.
 
 3. **Disagreement is no excuse for poor behavior and poor manners.**
 

@@ -12,14 +12,10 @@ Most CodinGame staff members have moderation rights too. Their username usually 
 
 - 5DN1L
 - AntiSquid
-- Astrobytes
 - Bob
 - dbdr
-- eulerscheZahl
 - Icebox
-- Illedan
 - Magus
-- Neumann
 - nicola
 - reCurse
 - robostac
