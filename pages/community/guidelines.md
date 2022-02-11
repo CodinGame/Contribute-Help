@@ -41,7 +41,7 @@ _Disagree with the current guidelines? Let us know in the [forum](https://www.co
 
 ### Clash of Code
 
-The main goal of a CoC battle is to be short (except in the "Shortest" mode). CoC players are looking for quick simple puzzles to solve; for more complex problems, they'll dive into the classic puzzles section.
+The main goal of a CoC battle is to be solved in a short period of time. CoC players are looking for quick simple puzzles to solve; for more complex problems, they'll dive into the classic puzzles section.
 
 1. **No CoC puzzle is too easy.**
 
