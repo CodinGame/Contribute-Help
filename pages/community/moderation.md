@@ -11,7 +11,6 @@ Most CodinGame staff members have moderation rights too. Their username usually 
 ### Moderation team
 
 - 5DN1L
-- AntiSquid
 - Bob
 - dbdr
 - Magus
