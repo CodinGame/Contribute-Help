@@ -4,7 +4,7 @@ Community moderators ensure that the discussion places of CodinGame remain a fri
 
 **Moderators are volunteers who enjoy CodinGame and its community. While they'll usually be happy to help you with any programming question, remember that they don't have to answer you, so don't ping them for that. Prefer an open question or check the forum.**
 
-Community moderators have moderation powers on CG chat, Discord and the forum. 
+Community moderators have moderation powers on Discord and the forum. 
 
 Most CodinGame staff members have moderation rights too. Their username usually starts with "[CG]".
 
@@ -15,7 +15,6 @@ Most CodinGame staff members have moderation rights too. Their username usually 
 - dbdr
 - Magus
 - nicola
-- reCurse
 - robostac
 - struct
 - SeebOmega
