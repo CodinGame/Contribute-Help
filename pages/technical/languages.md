@@ -20,11 +20,11 @@ Here is the list of compilers/runtimes associated with each programming language
 |D			|DMD 2.099.0 						|								|
 |Dart		|2.16.2								|								|
 |F#			|.NET Core Runtime 3.1.3			|								|
-|Java		|Oracle JDK 1.8.0 <br> OpenJDK 11.0.2 |								|
-|JavaScript	|Node 16.14.2 						|								|
 |Go			|1.18.1								|								|
 |Groovy		|3.0.8 - Oracle JVM 1.8				|								|
 |Haskell	|Haskell Platform 8.4.3				|								|
+|Java		|Oracle JDK 1.8.0 <br> OpenJDK 11.0.2 |								|
+|JavaScript	|Node 16.14.2 						|								|
 |Kotlin		|Kotlin 1.5.0 						|								|
 |Lua		|5.4.4								|								|
 |Objective‑C|Clang 13.0.1 						|								|
