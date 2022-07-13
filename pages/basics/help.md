@@ -16,7 +16,7 @@ Most puzzles have been solved by hundred or even thousands of other developers, 
 
 Before asking for help, you can search for an answer here first. Most likely it's a classic issue and it has an explanation.
 
-Then, you can ask other community members in the chat or on Discord. People chatting there are quite friendly and will be eager to help. However, remember that they don't _have to_ help you.
+Then, you can ask other community members on Discord. People chatting there are quite friendly and will be eager to help. However, remember that they don't _have to_ help you.
 
 Not sure on how to explain your problem? Check out this guide on [how to properly ask for help](http://how-to-properly-ask-a-question.surge.sh/) written by simon-tiger.
 
