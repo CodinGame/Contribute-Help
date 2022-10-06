@@ -25,7 +25,7 @@ Here is the list of compilers/runtimes associated with each programming language
 |Haskell	|Haskell Platform 8.4.3				|								|
 |Java		|Oracle JDK 1.8.0 <br> OpenJDK 11.0.2 |								|
 |JavaScript	|Node 16.14.2 						|								|
-|Kotlin		|Kotlin 1.5.0 						|								|
+|Kotlin		|Kotlin 1.7.10 						|								|
 |Lua		|5.4.4								|								|
 |Objective‑C|Clang 13.0.1 						|								|
 |OCaml		|4.14.0								|								|
