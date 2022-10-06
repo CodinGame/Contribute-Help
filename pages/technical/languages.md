@@ -15,11 +15,11 @@ Here is the list of compilers/runtimes associated with each programming language
 |Bash	 	|GNU Bash 5.1.16        				|								|
 |C	     	|gcc 11.2.0 mode C17   				|‑lm, ‑lpthread, ‑ldl, ‑lcrypt	|
 |C++	 	|g++ 11.2.0 mode C++17 				|‑lm, ‑lpthread, ‑ldl, ‑lcrypt	|
-|C#			|C# 8.0 (.NET Core Runtime 3.1.3) <br> Compiled with ‑unsafe|		|
+|C#			|C# 10.0 (.NET Runtime 6.0.9) <br> Compiled with ‑unsafe|		|
 |Clojure	|1.11.1 - Oracle JVM 1.8 			|								|
 |D			|DMD 2.099.0 						|								|
 |Dart		|2.16.2								|								|
-|F#			|.NET Core Runtime 3.1.3			|								|
+|F#			|F# 6.0 .NET Runtime 6.0.9			|								|
 |Go			|1.18.1								|								|
 |Groovy		|3.0.8 - Oracle JVM 1.8				|								|
 |Haskell	|Haskell Platform 8.4.3				|								|
@@ -38,4 +38,4 @@ Here is the list of compilers/runtimes associated with each programming language
 |Scala		|2.13.5 - Oracle JVM 1.8			|											|
 |Swift		|5.3.3								|											|
 |TypeScript	|4.6.3 (ES2020) - Node 16.14.2		|											|
-|VB.NET		|.NET Core Runtime 3.1.3 			|											|
+|VB.NET		|VB 16.9 .NET Runtime 6.0.9 			|											|
