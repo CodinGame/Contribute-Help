@@ -23,7 +23,7 @@ Here is the list of compilers/runtimes associated with each programming language
 |Go			|1.18.1								|								|
 |Groovy		|3.0.8 - Oracle JVM 1.8				|								|
 |Haskell	|Haskell Platform 8.4.3				|								|
-|Java		|Oracle JDK 1.8.0 <br> OpenJDK 11.0.2 |								|
+|Java		|Oracle JDK 17.0.8 (2023-07-18 LTS) |								|
 |JavaScript	|Node 16.14.2 						|								|
 |Kotlin		|Kotlin 1.7.10 						|								|
 |Lua		|5.4.4								|								|
@@ -34,7 +34,7 @@ Here is the list of compilers/runtimes associated with each programming language
 |PHP		|7.3.9 	<br> Compiled with ‑‑enable‑mbstring, ‑‑enable‑zip, ‑‑enable‑bcmath, <br> ‑‑enable‑calendar, ‑‑enable‑wddx, ‑‑enable‑intl, ‑‑enable‑soap, ‑‑enable‑sockets	|											|
 |Python3	|3.9.12 								|NumPy 1.20.2, pandas 1.2.4, SciPy 1.6.3 	|
 |Ruby		|3.1.2 								|											|
-|Rust		|1.60.0 							|chrono 0.4.19, itertools 0.10.0, libc 0.2.93, <br> rand 0.8.3, regex 1.4.5, time 0.2.26 	 																			 |
+|Rust		|1.70.0 							|chrono 0.4.26, itertools 0.11.0, libc 0.2.147, <br> rand 0.8.5, regex 1.8.4, time 0.3.22 	 																			 |
 |Scala		|2.13.5 - Oracle JVM 1.8			|											|
 |Swift		|5.3.3								|											|
 |TypeScript	|4.6.3 (ES2020) - Node 16.14.2		|											|
