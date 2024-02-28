@@ -6,7 +6,7 @@ The code size for any game is limited to 100k characters.
 
 The memory limit is 768 MB.
 
-Last update done on [April 21](https://www.codingame.com/forum/t/languages-update/1574/264)
+Last update done on [2024, February 28th](https://forum.codingame.com/t/languages-update/1574/328).
 
 Here is the list of compilers/runtimes associated with each programming language:
 
@@ -14,7 +14,7 @@ Here is the list of compilers/runtimes associated with each programming language
 |--------|--------|---------|
 |Bash	 	|GNU Bash 5.1.16        				|								|
 |C	     	|gcc 11.2.0 mode C17   				|‑lm, ‑lpthread, ‑ldl, ‑lcrypt	|
-|C++	 	|g++ 11.2.0 mode C++17 				|‑lm, ‑lpthread, ‑ldl, ‑lcrypt	|
+|C++	 	|g++ 11.2.0 mode C++20 				|‑lm, ‑lpthread, ‑ldl, ‑lcrypt	|
 |C#			|C# 10.0 (.NET Runtime 6.0.9) <br> Compiled with ‑unsafe|		|
 |Clojure	|1.11.1 - Oracle JVM 1.8 			|								|
 |D			|DMD 2.099.0 						|								|
