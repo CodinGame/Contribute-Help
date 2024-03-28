@@ -7,7 +7,7 @@ A contribution has 3 different states:
 
 - **Private**: a draft that can be shared with friends with the link.
 - **WIP**: as Work In Progress. Visible by everyone for feedback and suggestions but not yet ready to be approved and published. WIP contributions cannot be approved. Unless the author changes its state, a WIP contribution goes back to a private state after 30 days.
-- **Ready**: visible by everyone and ready for approval. If a *ready* contribution is not approved/rejected after 30 days, it goes back to a private state.
+- **Ready**: visible by everyone and ready for approval. If a ready contribution is not approved/rejected after 30 days, it goes back to a private state. A contribution cannot be published before 7 days even if it has been approved 3 times, to let time for other moderators to review it. If during this period it is rejected 3 times, it will go back to a private state, even if 3 moderators approved it.
 
 To submit a classic puzzle or CoC puzzle as *WIP* or *Ready*, the author must provide a solution to the puzzle, in any language.
 
