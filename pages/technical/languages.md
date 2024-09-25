@@ -6,7 +6,7 @@ The code size for any game is limited to 100k characters.
 
 The memory limit is 768 MB.
 
-Last update done on [2024, February 28th](https://forum.codingame.com/t/languages-update/1574/328).
+Last update done on [2024, September 25th](https://forum.codingame.com/t/languages-update/1574/343).
 
 Here is the list of compilers/runtimes associated with each programming language:
 
@@ -15,16 +15,16 @@ Here is the list of compilers/runtimes associated with each programming language
 |Bash	 	|GNU Bash 5.1.16        				|								|
 |C	     	|gcc 11.2.0 mode C17   				|‑lm, ‑lpthread, ‑ldl, ‑lcrypt	|
 |C++	 	|g++ 11.2.0 mode C++20 				|‑lm, ‑lpthread, ‑ldl, ‑lcrypt	|
-|C#			|C# 10.0 (.NET Runtime 6.0.9) <br> Compiled with ‑unsafe|		|
+|C#			|C# 12.0 (.NET Runtime 8.0.401) <br> Compiled with ‑unsafe|		|
 |Clojure	|1.11.1 - Oracle JVM 1.8 			|								|
 |D			|DMD 2.099.0 						|								|
 |Dart		|2.16.2								|								|
-|F#			|F# 6.0 .NET Runtime 6.0.9			|								|
+|F#			|F# 8.0 (.NET Runtime 8.0.401)			|								|
 |Go			|1.18.1								|								|
 |Groovy		|3.0.8 - Oracle JVM 1.8				|								|
 |Haskell	|Haskell Platform 8.4.3				|								|
-|Java		|Oracle JDK 17.0.8 (2023-07-18 LTS) |								|
-|JavaScript	|Node 16.14.2 						|								|
+|Java		|Oracle JDK 21.0.4 (2024-08-16 LTS) |								|
+|JavaScript	|Node 20.9.0 						|								|
 |Kotlin		|Kotlin 1.7.10 						|								|
 |Lua		|5.4.4								|								|
 |Objective‑C|Clang 13.0.1 						|								|
@@ -37,5 +37,5 @@ Here is the list of compilers/runtimes associated with each programming language
 |Rust		|1.70.0 							|chrono 0.4.26, itertools 0.11.0, libc 0.2.147, <br> rand 0.8.5, regex 1.8.4, time 0.3.22 	 																			 |
 |Scala		|2.13.5 - Oracle JVM 1.8			|											|
 |Swift		|5.3.3								|											|
-|TypeScript	|4.6.3 (ES2020) - Node 16.14.2		|											|
-|VB.NET		|VB 16.9 .NET Runtime 6.0.9 			|											|
+|TypeScript	| 5.6.2 - Node 20.9.0		|											|
+|VB.NET		|VB 16.9 (.NET Runtime 8.0.401) 			|											|
