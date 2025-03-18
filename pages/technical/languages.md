@@ -32,7 +32,7 @@ Here is the list of compilers/runtimes associated with each programming language
 |Pascal		|Free Pascal Compiler 3.2.2			|								|
 |Perl		|5.34.0 							|Array::Utils, List::Util, Data::Dumper, List::Compare, <br> List::MoreUtils, threads, Moose, DateTime, IPC::System::Simple, <br>autodie, enum, Tree, String::Util, Set::Scalar		|
 |PHP		|7.3.9 	<br> Compiled with ‑‑enable‑mbstring, ‑‑enable‑zip, ‑‑enable‑bcmath, <br> ‑‑enable‑calendar, ‑‑enable‑wddx, ‑‑enable‑intl, ‑‑enable‑soap, ‑‑enable‑sockets	|											|
-|Python3	|3.9.12 								|NumPy 1.20.2, pandas 1.2.4, SciPy 1.6.3 	|
+|Python3	|3.11.5 								|NumPy 1.20.2, pandas 1.2.4, SciPy 1.6.3 	|
 |Ruby		|3.1.2 								|											|
 |Rust		|1.70.0 							|chrono 0.4.26, itertools 0.11.0, libc 0.2.147, <br> rand 0.8.5, regex 1.8.4, time 0.3.22 	 																			 |
 |Scala		|2.13.5 - Oracle JVM 1.8			|											|
