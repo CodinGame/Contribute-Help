@@ -41,7 +41,7 @@ _(In/Out puzzle and CoC only)_
 
 \<\<Bold\>\> [[Variable]] {{Constant}} renders as:
 
-<img src="https://static.codingame.com/servlet/fileservlet?id=2208548269998" alt="statement syntax" width="200"/>
+<img src="https://static.codingame.com/servlet/fileservlet?id=2208548269998" alt="statement syntax img" width="200"/>
 
 \`Monospace\` renders as: `Monospace`
 
