@@ -18,7 +18,7 @@ Here is the list of compilers/runtimes associated with each programming language
 |C#			|C# 12.0 (.NET Runtime 8.0.401) <br> Compiled with ‑unsafe|		|
 |Clojure	|1.11.1 - Oracle JVM 1.8 			|								|
 |D			|DMD 2.099.0 						|								|
-|Dart		|2.16.2								|								|
+|Dart		|3.9.4								|								|
 |F#			|F# 8.0 (.NET Runtime 8.0.401)			|								|
 |Go			|1.18.1								|								|
 |Groovy		|3.0.8 - Oracle JVM 1.8				|								|
@@ -34,7 +34,7 @@ Here is the list of compilers/runtimes associated with each programming language
 |PHP		|7.3.9 	<br> Compiled with ‑‑enable‑mbstring, ‑‑enable‑zip, ‑‑enable‑bcmath, <br> ‑‑enable‑calendar, ‑‑enable‑wddx, ‑‑enable‑intl, ‑‑enable‑soap, ‑‑enable‑sockets	|											|
 |Python3	|3.11.5 								|NumPy 1.20.2, pandas 1.2.4, SciPy 1.6.3 	|
 |Ruby		|3.1.2 								|											|
-|Rust		|1.70.0 							|chrono 0.4.26, itertools 0.11.0, libc 0.2.147, <br> rand 0.8.5, regex 1.8.4, time 0.3.22 	 																			 |
+|Rust		|1.90.0 							|chrono 0.4.41, itertools 0.14.0, libc 0.2.175, <br> rand 0.9.2, regex 1.11.2, time 0.3.43 	 																			 |
 |Scala		|2.13.5 - Oracle JVM 1.8			|											|
 |Swift		|5.3.3								|											|
 |TypeScript	| 5.6.2 - Node 20.9.0		|											|
