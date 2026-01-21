@@ -1,4 +1,4 @@
-## Welcome to CodinGame's Help Center
+## Welcome to CodinGame's Help Center!
 
 Welcome to the main place of documentation about every activities you can do on CodinGame.
 
